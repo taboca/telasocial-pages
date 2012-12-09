@@ -1,0 +1,37 @@
+Entenda sobre as licenças no código fonte do TelaSocial e também sobre o uso de software, materiais e imagens. 
+
+## Componente de Software Tela Social
+
+O Tela Social, aplicação cliente de software, está listado como [Powered by Mozilla](http://www.mozilla.org/projects/powered-by.html) por ter seu módulo cliente baseado no Mozilla XULRunner, o SDK da Mozilla que oferece uma infra-estrutura para criação de aplicações tipo “browser” ou seja, oferece o “engine” de um navegador Web que também é chamado de Gecko. Esta infra-estrutura é baseada em padrões abertos e é disponibilizada por meio do projeto Mozilla. 
+
+## Cobertura de código 
+
+ Exceto onde informado, todo o código fonte atualmente disponibilizado [1] por meio do sistema TelaSocial trata-se de sofware livre e tem código aberto. Este código fonte representa a camada de aplicação e é disponível por meio da licença MPL 1.1 [2], da licença GNU General Public License (GPL) versão 2.0 [3] e da licença GNU Lesser General Public License (LGPL) versão 2.1 [4]. Estas licenças são reconhecidas e aprovadas pela OSI [5]. 
+
+### Referências
+
+* [1] https://github.com/taboca/TelaSocial
+* [2] http://www.mozilla.org/MPL/1.1/
+* [3] http://www.gnu.org/licenses/gpl-2.0.html
+* [4] http://www.gnu.org/licenses/lgpl-2.1.html
+* [5] http://www.opensource.org/licenses
+
+## Sobre patentes
+
+ O projeto TelaSocial oferece inovação através de tecnologia aberta e visa oportunidades. Assim não existem patentes ( arquivadas ou garantidas ) de autoria do projeto TelaSocial ou Marcio dos Santos Galli Informática que se refere a funcionalidade do TelaSocial, primeiro por ter sido baseado em tecnologias abertas e padrões como W3C, e também pelo propósito geral do projeto que é de facilitar e permitir modificações e evolução do código fonte do sistema. Neste sentido vale observar a política W3C [6] sobre patentes que tem o objetivo de garantir que as recomendações W3C possam ser implementadas sem a necessidade de pagamento de royalties, ou seja, que tenha uma política livre de pagamento de royalties.
+
+Vale lembrar que a não existência de patentes, iniciadas pelo telaSocial, não implica que outras empresas não criaram patentes na área, ou seja, o uso e/ou modificação do produto é de responsabilidade daquele que faz o uso. 
+
+### Referências
+
+* [6] http://www.w3.org/Consortium/Patent-Policy-20040205/
+
+## Licença de uso do usuário final
+
+O TelaSocial é disponível com código aberto. O código, as documentações, termos e quaisquer materiais relacionados estão sujeitos a alterações sem aviso prévio. A utilização do produto é de total responsabilidade daquele que faz o uso ou instalação e/ou modificações. Em nenhuma circustância, o desenvolvedor e autor original, ou contribuidores do projeto, são responsáveis pela execução ou a incapacidade de execução do sistema. O sistema não deve ser utilizado em condições chamadas missão crítica. 
+
+## Logos e marcas
+
+Os logos e marcas são de propriedade de Marcio dos Santos Galli Informatica - Taboca Comunicações — todos os direitos reservados. Para maiores informações sobre o uso de imagens, logos e marcas entre em contato. 
+
+ 
