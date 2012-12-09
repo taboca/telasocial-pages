@@ -18,7 +18,7 @@ O trabalho realizado com cerca de 11 telas e para mais de 3500 participantes em 
 
 <a href='http://blog.telasocial.com/telasocial-latinoware-2011'>Saiba mais</a>
 
-<div style='clear:both' />
+<div style='clear:both' ></div>
 
 ## Sematron @ EESC USP 
 
@@ -26,7 +26,7 @@ O trabalho realizado com cerca de 11 telas e para mais de 3500 participantes em 
 
 A TelaSematron, disponível no repositório GitHub.com, é uma camada de customização que utiliza do sistema TelaSocial, e atende um conjunto de objetivos colocados pelo grupo organizador do evento. O líder do projeto, Gustavo Lahr, contou com o apoio de Nelson Motta e colaboração da comissão de organização da Sematron. 
 
-<a style='clear:both' href='http://blog.telasocial.com/telasocial-hosted-na-sematron-viii-em-sao-car'>Saiba mais</a>
+<a href='http://blog.telasocial.com/telasocial-hosted-na-sematron-viii-em-sao-car'>Saiba mais</a>
 
 <div style='clear:both'></div>
 
