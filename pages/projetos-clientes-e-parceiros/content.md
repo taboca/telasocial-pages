@@ -1,6 +1,6 @@
 Conheça alguns dos projetos elaborados com nossos parceiros e clientes, e como as soluções Taboca Labs/TelaSocial se adequam aos vários casos de uso. 
 
-<style> .short { width:160px; float:left; margin-right:2em; } </style>
+<style> .short { width:240px; float:left; margin-right:2em; } </style>
 ## 
  
 ## Parque Tecnológico Itaipu
@@ -23,9 +23,10 @@ O projeto foi uma iniciativa da equipe SCInfor, que conta com apoio adminstrativ
 
 ## Latinoware 2012 
 
+<img class='short' src='images/logo-latinoware-240.png'  /> 
+
 O Tela Social aconteceu novamente durante a Latinoware 2012 em Foz do Iguaçú, no Paraná. Na versão 2012 as telas da Latinoware estavam apresentando toda a agenda do evento em tempo real por meio do uso do padrão iCalendar, ou seja, com conectividade direta com o sistema de gestão de eventos na Latinoware (lapsi).
 
-<img class='short' src='images/logo-latinoware-240.png'  /> 
 
 <div style='clear:both'></div>
 
@@ -41,9 +42,7 @@ O FISL foi o primeiro grande evento que ofereceu suporte para o Tela Social. O p
 
 <img class='short' src='images/logo-latinoware-2011-240.png' /> 
 
-O trabalho realizado com cerca de 11 telas e para mais de 3500 participantes em Foz do Iguaçú. A proposta foi em estabelecer um meio de comunicação dinâmico e adaptável aos eventos, como palestra, durante os 3 dias de evento. O projeto dos painéis na Latinoware teve a preocupação de deixar todo o investimento, quanto a mudanças em código e novos módulos, disponível para a comunidade.
-
-<a href='http://blog.telasocial.com/telasocial-latinoware-2011'>Saiba mais</a>
+O trabalho realizado com cerca de 11 telas e para mais de 3500 participantes em Foz do Iguaçú. A proposta foi em estabelecer um meio de comunicação dinâmico e adaptável aos eventos, como palestra, durante os 3 dias de evento. O projeto dos painéis na Latinoware teve a preocupação de deixar todo o investimento, quanto a mudanças em código e novos módulos, disponível para a comunidade. <a href='http://blog.telasocial.com/telasocial-latinoware-2011'>Saiba mais</a>
 
 <div style='clear:both' ></div>
 
