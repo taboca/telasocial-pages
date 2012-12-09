@@ -18,6 +18,8 @@ O trabalho realizado com cerca de 11 telas e para mais de 3500 participantes em 
 
 <a href='http://blog.telasocial.com/telasocial-latinoware-2011'>Saiba mais</a>
 
+<div style='clear:both' />
+
 ## Sematron @ EESC USP 
 
 <img style='width:240px;float:left' src='images/sematron.jpg'  />
