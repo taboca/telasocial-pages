@@ -1,7 +1,7 @@
 Conheça alguns dos projetos elaborados com nossos parceiros e clientes, e como as soluções Taboca Labs/TelaSocial se adequam aos vários casos de uso. 
 
 <style> .short { width:240px; float:left; margin-right:2em; } </style>
-<style> div class='separator'.separator { border:1px dotted gray } </style>
+<style> div.separator { border:1px dotted gray } </style>
 
 <img class='short' src='images/logo-pti-240.png' /> 
 
@@ -11,10 +11,7 @@ O Parque Tecnológico Itaipu levou o Tela Social para dentro dos corredores com 
 
 <img class='short' src='http://www.ifsc.usp.br/images/stories/logomarcas/timbre_ifsc_500x109.jpg' width='240' style='width:240px' /> 
 
-No Instituo de Física da USP, o projeto foi uma iniciativa da equipe SCInfor, que conta com apoio adminstrativo e tem toda a tecnologia baseada em padrões Web. A infra-estrutura é de código aberto destacando sistema Linux e conta com a tecnologia do sistema TelaSocial, também disponibilizado com código aberto. 
-
-
-<a href='http://blog.telasocial.com/uso-dos-paineis-web-no-instituto-de-fisica-em'>Saiba mais sobre a versão original</a> e ainda <a href='http://blog.telasocial.com/novo-painel-no-ifsc-usp-em-sao-carlos'>avanços</a>.
+No Instituo de Física da USP, o projeto foi uma iniciativa da equipe SCInfor, que conta com apoio adminstrativo e tem toda a tecnologia baseada em padrões Web. A infra-estrutura é de código aberto destacando sistema Linux e conta com a tecnologia do sistema TelaSocial, também disponibilizado com código aberto. <a href='http://blog.telasocial.com/uso-dos-paineis-web-no-instituto-de-fisica-em'>Saiba mais sobre a versão original</a> e ainda <a href='http://blog.telasocial.com/novo-painel-no-ifsc-usp-em-sao-carlos'>avanços</a>.
 
 <div class='separator' style='clear:both'></div class='separator'>
 
