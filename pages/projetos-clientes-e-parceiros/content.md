@@ -12,7 +12,9 @@ Conheça alguns dos projetos elaborados com nossos parceiros e clientes, e como 
 
 <img style='width:240px'  src='images/logo-latinoware-2011-240.png' /> 
 
-<a href='http://blog.telasocial.com/telasocial-hosted-na-sematron-viii-em-sao-car'><img style='width:240px'  src='images/logo-sematron.png'  /></a>
+<a href='http://blog.telasocial.com/telasocial-hosted-na-sematron-viii-em-sao-car'>Saiba mais</a>
+
+<img style='width:240px' src='images/sematron.jpg'  />
 
 
 
