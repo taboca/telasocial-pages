@@ -3,13 +3,13 @@ Conheça alguns dos projetos elaborados com nossos parceiros e clientes, e como 
 <style> .short { width:240px; float:left; margin-right:2em; } </style>
 <style> div.separator { border:1px dotted gray } </style>
 
-<img class='short' src='images/pti.jpg /> 
+<img class='short' src='images/pti.jpg' /> 
 
 O Parque Tecnológico Itaipu levou o Tela Social para dentro dos corredores com o objetivo de comunicar informações relevantes para funcionários e usuários em dependências da instituição. O primeiro caso de uso foram as telas que apresentam informações sobre reservas de salas no espaço de eventos do PTI. 
 
 <div class='separator' style='clear:both'></div class='separator'>
 
-<img class='short' src='images/ifsc.jpg' width='240' style='width:240px' /> 
+<img class='short' src='images/ifsc.jpg' /> 
 
 No Instituo de Física da USP, o projeto foi uma iniciativa da equipe SCInfor, que conta com apoio adminstrativo e tem toda a tecnologia baseada em padrões Web. A infra-estrutura é de código aberto destacando sistema Linux e conta com a tecnologia do sistema TelaSocial, também disponibilizado com código aberto. <a href='http://blog.telasocial.com/uso-dos-paineis-web-no-instituto-de-fisica-em'>Saiba mais sobre a versão original</a> e ainda <a href='http://blog.telasocial.com/novo-painel-no-ifsc-usp-em-sao-carlos'>avanços</a>.
 
