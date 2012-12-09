@@ -12,11 +12,13 @@ Conheça alguns dos projetos elaborados com nossos parceiros e clientes, e como 
 
 <img style='width:240px'  src='images/logo-latinoware-2011-240.png' /> 
 
+## Sematron @ EESC USP 
+
+A TelaSematron, disponível no repositório GitHub.com, é uma camada de customização que utiliza do sistema TelaSocial, e atende um conjunto de objetivos colocados pelo grupo organizador do evento. O líder do projeto, Gustavo Lahr, contou com o apoio de Nelson Motta e colaboração da comissão de organização da Sematron. 
+
 <a href='http://blog.telasocial.com/telasocial-hosted-na-sematron-viii-em-sao-car'>Saiba mais</a>
 
-<img style='width:240px' src='images/sematron.jpg'  />
-
-
+<img style='width:240px;float:right' src='images/sematron.jpg'  />
 
 ## Sobre logotipos e marcas 
 
