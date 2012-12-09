@@ -19,7 +19,7 @@ No Instituo de Física da USP, o projeto foi uma iniciativa da equipe SCInfor, q
 
 <img class='short' src='images/latinoware-2012.jpg'  /> 
 
-Na Latinoware 2012, em Foz do Iguaçú — Paraná, a versão nova das telas contou com uma novidade — toda a agenda do evento em tempo real por meio do uso do padrão iCalendar, ou seja, contou com uma solução de integração, com uma conectividade direta com o sistema de gestão de eventos na Latinoware (lapsi).
+Na Latinoware 2012, em Foz do Iguaçú — Paraná, a versão nova das telas contou com uma novidade — toda a agenda do evento em tempo real por meio do uso do padrão iCalendar, ou seja, contou com uma solução de integração, com uma conectividade direta com o sistema de gestão de eventos na Latinoware (lapsi). <a href='http://2012.latinoware.org/2012/10/os-recursos-da-telasocial-na-latinoware-2012/'>Saiba mais sobre o Tela Social na Latinoware</a>. 
 
 <div class='separator' style='clear:both'></div class='separator'>
 
