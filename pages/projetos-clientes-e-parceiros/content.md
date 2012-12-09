@@ -5,7 +5,13 @@ Conheça alguns dos projetos elaborados com nossos parceiros e clientes, e como 
  
 <img class='short' src='http://www.ifsc.usp.br/images/stories/logomarcas/timbre_ifsc_500x109.jpg' width='240' style='width:240px' /> 
 
+## Parque Tecnológico Itaipu
+
 <img class='short' src='images/logo-pti-240.png' /> 
+
+O Parque Tecnológico Itaipu levou o Tela Social para dentro dos corredores com o objetivo de comunicar informações relevantes para funcionários e usuários em dependências da instituição. O primeiro caso de uso foram as telas que apresentam informações sobre reservas de salas no espaço de eventos do PTI. 
+
+<div style='clear:both'></div>
 
 ## Latinoware 2012 
 
@@ -17,9 +23,9 @@ O Tela Social aconteceu novamente durante a Latinoware 2012 em Foz do Iguaçú, 
 
 ## FISL 12
 
-O FISL foi o primeiro grande evento que ofereceu suporte para o Tela Social. O pojeto foi elaborado em modelo de parceria e permitiu a validação sobre pontos fortes e melhorias. 
-
 <img class='short' src='images/logo-fisl12-240.png' /> 
+
+O FISL foi o primeiro grande evento que ofereceu suporte para o Tela Social. O pojeto foi elaborado em modelo de parceria e permitiu a validação sobre pontos fortes e melhorias. 
 
 <div style='clear:both'></div>
 
