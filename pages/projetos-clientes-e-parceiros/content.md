@@ -23,7 +23,7 @@ Na Latinoware 2012, em Foz do Iguaçú — Paraná, a versão nova das telas con
 
 <img class='short' src='images/fisl.jpg' /> 
 
-O FISL foi o primeiro grande evento que ofereceu suporte para o Tela Social. O pojeto foi elaborado em modelo de parceria e permitiu a validação e capacitação do sistema com recursos específicos atendendo ao caso de eventos.  
+O FISL foi o primeiro grande evento que ofereceu suporte para o Tela Social. O pojeto foi elaborado em modelo de parceria e permitiu a validação e capacitação do sistema com recursos específicos atendendo ao caso de eventos.  <a href='http://softwarelivre.org/fisl11/noticias/fisl11-contara-com-a-nova-tecnologia-do-telasocial'>Saiba mais sobre o projeto original</a> e também projetos de <a href='http://www.pensoti.com.br/opensource/fisl-tela-social-integre-a-web-com-seus-ambientes-fisicos'>continuação</a>.
 
 <div class='separator' style='clear:both'></div class='separator'>
 
