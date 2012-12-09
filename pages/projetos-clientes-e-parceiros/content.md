@@ -3,6 +3,8 @@ Conheça alguns dos projetos elaborados com nossos parceiros e clientes, e como 
 <style> .short { width:240px; float:left; margin-right:2em; } </style>
 <style> div.separator { border:1px dotted gray } </style>
 
+## Projetos de 2012 e 2011
+
 <img class='short' src='images/pti.jpg' /> 
 
 O Parque Tecnológico Itaipu levou o Tela Social para dentro dos corredores com o objetivo de comunicar informações relevantes para funcionários e usuários em dependências da instituição. O primeiro caso de uso foram as telas que apresentam informações sobre reservas de salas no espaço de eventos do PTI. 
