@@ -12,9 +12,9 @@ Conheça alguns dos projetos elaborados com nossos parceiros e clientes, e como 
 
 ## Latinoware 2011
 
-O trabalho realizado com cerca de 11 telas e para mais de 3500 participantes em Foz do Iguaçú. A proposta foi em estabelecer um meio de comunicação dinâmico e adaptável aos eventos, como palestra, durante os 3 dias de evento. O projeto dos painéis na Latinoware teve a preocupação de deixar todo o investimento, quanto a mudanças em código e novos módulos, disponível para a comunidade.
+<img style='width:240px;float:left;margin-right:1em;'  src='images/logo-latinoware-2011-240.png' /> 
 
-<img style='width:240px;float:left'  src='images/logo-latinoware-2011-240.png' /> 
+O trabalho realizado com cerca de 11 telas e para mais de 3500 participantes em Foz do Iguaçú. A proposta foi em estabelecer um meio de comunicação dinâmico e adaptável aos eventos, como palestra, durante os 3 dias de evento. O projeto dos painéis na Latinoware teve a preocupação de deixar todo o investimento, quanto a mudanças em código e novos módulos, disponível para a comunidade.
 
 <a href='http://blog.telasocial.com/telasocial-latinoware-2011'>Saiba mais</a>
 
@@ -22,7 +22,7 @@ O trabalho realizado com cerca de 11 telas e para mais de 3500 participantes em 
 
 ## Sematron @ EESC USP 
 
-<img style='width:240px;float:left' src='images/sematron.jpg'  />
+<img style='width:240px;float:left;margin-right:1em' src='images/sematron.jpg'  />
 
 A TelaSematron, disponível no repositório GitHub.com, é uma camada de customização que utiliza do sistema TelaSocial, e atende um conjunto de objetivos colocados pelo grupo organizador do evento. O líder do projeto, Gustavo Lahr, contou com o apoio de Nelson Motta e colaboração da comissão de organização da Sematron. 
 
