@@ -1,9 +1,7 @@
 Conheça alguns dos projetos elaborados com nossos parceiros e clientes, e como as soluções Taboca Labs/TelaSocial se adequam aos vários casos de uso. 
 
 <style> .short { width:240px; float:left; margin-right:2em; } </style>
-## 
- 
-## Parque Tecnológico Itaipu
+<style> div { border:1px dotted gray } </style>
 
 <img class='short' src='images/logo-pti-240.png' /> 
 
@@ -11,48 +9,36 @@ O Parque Tecnológico Itaipu levou o Tela Social para dentro dos corredores com 
 
 <div style='clear:both'></div>
 
-## Instituto de Física de São Carlos - USP 
-
 <img class='short' src='http://www.ifsc.usp.br/images/stories/logomarcas/timbre_ifsc_500x109.jpg' width='240' style='width:240px' /> 
 
-O projeto foi uma iniciativa da equipe SCInfor, que conta com apoio adminstrativo e tem toda a tecnologia baseada em padrões Web. A infra-estrutura é de código aberto destacando sistema Linux e conta com a tecnologia do sistema TelaSocial, também disponibilizado com código aberto. 
+No Instituo de Física da USP, o projeto foi uma iniciativa da equipe SCInfor, que conta com apoio adminstrativo e tem toda a tecnologia baseada em padrões Web. A infra-estrutura é de código aberto destacando sistema Linux e conta com a tecnologia do sistema TelaSocial, também disponibilizado com código aberto. 
+
 
 <a href='http://blog.telasocial.com/uso-dos-paineis-web-no-instituto-de-fisica-em'>Saiba mais sobre a versão original</a> e ainda <a href='http://blog.telasocial.com/novo-painel-no-ifsc-usp-em-sao-carlos'>avanços</a>.
 
 <div style='clear:both'></div>
 
-## Latinoware 2012 
-
 <img class='short' src='images/logo-latinoware-240.png'  /> 
 
-O Tela Social aconteceu novamente durante a Latinoware 2012 em Foz do Iguaçú, no Paraná. Na versão 2012 as telas da Latinoware estavam apresentando toda a agenda do evento em tempo real por meio do uso do padrão iCalendar, ou seja, com conectividade direta com o sistema de gestão de eventos na Latinoware (lapsi).
-
+Na Latinoware 2012, em Foz do Iguaçú — Paraná, a versão nova das telas contou com uma novidade — toda a agenda do evento em tempo real por meio do uso do padrão iCalendar, ou seja, contou com uma solução de integração, com uma conectividade direta com o sistema de gestão de eventos na Latinoware (lapsi).
 
 <div style='clear:both'></div>
-
-## FISL 12
 
 <img class='short' src='images/logo-fisl12-240.png' /> 
 
-O FISL foi o primeiro grande evento que ofereceu suporte para o Tela Social. O pojeto foi elaborado em modelo de parceria e permitiu a validação sobre pontos fortes e melhorias. 
+O FISL foi o primeiro grande evento que ofereceu suporte para o Tela Social. O pojeto foi elaborado em modelo de parceria e permitiu a validação e capacitação do sistema com recursos específicos atendendo ao caso de eventos.  
 
 <div style='clear:both'></div>
 
-## Latinoware 2011
-
 <img class='short' src='images/logo-latinoware-2011-240.png' /> 
 
-O trabalho realizado com cerca de 11 telas e para mais de 3500 participantes em Foz do Iguaçú. A proposta foi em estabelecer um meio de comunicação dinâmico e adaptável aos eventos, como palestra, durante os 3 dias de evento. O projeto dos painéis na Latinoware teve a preocupação de deixar todo o investimento, quanto a mudanças em código e novos módulos, disponível para a comunidade. <a href='http://blog.telasocial.com/telasocial-latinoware-2011'>Saiba mais</a>
+Na Latinoware 2011, o Tela Social fez o primeiro projeto com maior número de telas. Foram 11 telas para mais de 3500 participantes, no evento que ocorreu dentro do Parque Tecnológico Itaipu em Foz do Iguaçú. A proposta foi em estabelecer um meio de comunicação dinâmico e adaptável aos eventos, como palestra, durante os 3 dias de evento. O projeto dos painéis na Latinoware teve a preocupação de deixar todo o investimento, quanto a mudanças em código e novos módulos, disponível para a comunidade. <a href='http://blog.telasocial.com/telasocial-latinoware-2011'>Saiba mais</a>
 
 <div style='clear:both' ></div>
 
-## Sematron @ EESC USP 
-
 <img class='short' src='images/sematron.jpg'  />
 
-A TelaSematron, disponível no repositório GitHub.com, é uma camada de customização que utiliza do sistema TelaSocial, e atende um conjunto de objetivos colocados pelo grupo organizador do evento. O líder do projeto, Gustavo Lahr, contou com o apoio de Nelson Motta e colaboração da comissão de organização da Sematron. 
-
-<a href='http://blog.telasocial.com/telasocial-hosted-na-sematron-viii-em-sao-car'>Saiba mais</a>
+A TelaSematron apresentou informações em tempo real durante a Sematron em 2012 e 2011. O projeto, disponível no repositório GitHub.com, é uma camada de customização que utiliza do sistema TelaSocial, e atende um conjunto de objetivos colocados pelo grupo organizador do evento. O líder do projeto, Gustavo Lahr, contou com o apoio de Nelson Motta e colaboração da comissão de organização da Sematron.  <a href='http://blog.telasocial.com/telasocial-hosted-na-sematron-viii-em-sao-car'>Saiba mais</a> 
 
 <div style='clear:both'></div>
 
