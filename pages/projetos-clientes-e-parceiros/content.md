@@ -1,14 +1,6 @@
 Conheça alguns dos projetos elaborados com nossos parceiros e clientes, e como as soluções Taboca Labs/TelaSocial se adequam aos vários casos de uso. 
 
-<style>
-
-.short { 
-	width:160px; 
-	float:left;
-	margin-right:2em;
-} 
-
-</style>
+<style> .short { width:160px; float:left; margin-right:2em; } </style>
 ## 
  
 <img class='short' src='http://www.ifsc.usp.br/images/stories/logomarcas/timbre_ifsc_500x109.jpg' width='240' style='width:240px' /> 
