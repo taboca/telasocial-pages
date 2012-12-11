@@ -10,4 +10,6 @@ No exemplo abaixo destacam-se casos de sistemas de sinalização visual em aerop
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/396jaJ0Grhc" frameborder="0" allowfullscreen></iframe>
 
- 
+## Referências 
+
+* [Sinalização Digital - Digital Signage Wikipedia](http://pt.wikipedia.org/wiki/Digital_Signage) 
