@@ -12,11 +12,11 @@ Este paper tem teor técnico e representa o primeiro trabalho formal que resulto
 
 * PDF -> [Paper III W3C Conferência Brasil TelaSocial](http://www.telasocial.com/downloads/paper-telasocial-iii-w3c.pdf)
 
-## Palestras 2013 
+## Palestra Tecnológica — todas páginas Web se tornam animadas (2013 inédita) 
 
 * Toda página web também é uma aprentação animada - nova palestra do projeto TelaSocial que mostra o componente TagVisor e as possibilidades quanto a criação de apresentações animadas baseadas em páginas HTML existentes. A apresentação elabora sobre os fundamentos e potenciais dos padrões web e foca no caso do uso do tTagVisor que pode ser visto no site telasocial no modo [modo telasocial](http://www.telasocial.com?mode=tv)
 
-## Palestras 2012
+### Palestras anteriores
 
 * 2012 -> Uso de Padrões Abertos Web para as Telas Sociais @ Latinoware 2012, Foz do Iguaçú, PR
 * 2012 -> [Powered by Mozilla Web finds Physical Spaces](https://wiki.mozilla.org/MozCampLATAM2012/Schedule) @ MozCamp, Buenos Aires, Argentina
