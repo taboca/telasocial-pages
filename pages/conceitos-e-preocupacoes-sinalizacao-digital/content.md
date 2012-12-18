@@ -37,7 +37,9 @@ O caso abaixo mostra uma experiência que é razoável caso não exista realment
 
 ### Ninho de pomba na sinalização digital 
 
-![Ninho de pomba se forma em sinalização digital em ambiente público](pomba-sinalizacao-digital.jpg)
+As fotos abaixo foram coletadas na rodoviária em São Carlos e mostram que TVs de sinalização digital foram utilizadas por pombos como um lar. Estes aparelhos estavam em uma altura razoavelmente próximas aos humanos assim trata-se de um caso de uso que apresenta perigo para usuários e também perigo ao próprio animal. 
+
+![Ninho de pomba se forma em sinalização digital em ambiente público](pomba-na-sinalizacao-digital.jpg)
 ![Pomba descança e faz ninho em TV de sinalização em rodoviária](ninho-de-pomba-sinalizacao-digital.jpg)
 
 
