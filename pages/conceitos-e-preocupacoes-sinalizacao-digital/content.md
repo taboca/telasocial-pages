@@ -29,6 +29,8 @@ O caso abaixo mostra uma experiência que é razoável caso não exista realment
 
 ![Sinalização Digital Mensagem técnica](mensagem-de-erro-sem-alternativa-sinalizacao-digital.jpg)
 
+* Estamos desconsiderando o erro de português que é algo mais crítico ainda pois esta tela estava em um local público e assim "educando" as pessoas. 
+
 ### Mensagem de erro técnica em inglês 
 
 ![Sinalização Digital problema experiência crítica](sinalizacao-digital-ingles-undefined.jpg)
