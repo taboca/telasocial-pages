@@ -54,6 +54,12 @@ A foto abaixo mostra que o terminal está próximo do "access point" que proporc
 
 ## Erros comuns ou preocupações  
 
+### Pop-ups de notificação do sistema operacional estão atrapalhando o visual de sistema em aeroporto 
+
+A foto abaixo, tirada em 2012 no Brasil (antes dos aeroportos privados) mostra que o sistema de sinalização digital do aeroporto está sendo executado com base no sistema operacional Windows. E como o sistema é uma versão originalmente elaborada para usuários (como os usuários na frente do computador com o mouse) pode-se observar problemas como estes balões de notificação. 
+
+![Problemas com janelas de notificação que aparecem em cima do sistema de sinalização digital no aeroporto no Brasil](popup-notificacao-windows-sinalizacao-digital-aeroporto.jpg)
+
 ### Vários casos de uso de problemas onde elementos de interface do sistema operacional estão atrapalhando o conteúdo
 
 No exemplo abaixo destacam-se casos de sistemas de sinalização visual em aeroportos que apresentam problemas entre a interface desejada e recursos do sistema operacional. As fotos abaixo foram observadas no período de 2012 e representam preocupações e atenção sobre o que não deve-se fazer.
