@@ -27,6 +27,12 @@ Neste caso pode-se observar que a parte dos patrocinadores (os previamente defin
 
 ![Totem de sinalização digital mural com áreas de patrocínio em comunicação visual estática e dinâmica](sinalizacao-digital-patrocinadores.jpg)
 
+### Aparelho de TV com bordas reduzidas e proporcionais 
+
+O caso de uso abaixo mostra um sistema de sinalização digital que está sendo instalado em um aparelho tipo Samsung que tem bordas proporcionais. Este caso de uso é interessante pois traz um visual que é agradável para usuários. 
+
+![Aparelho de TV com bordas proporcionais em uso com sistema de sinalização digital](tela-sinalizacao-digital-borda-proporcional.jpg)
+
 ## Erros comuns ou preocupações  
 
 ### Vários casos de uso de problemas onde elementos de interface do sistema operacional estão atrapalhando o conteúdo
