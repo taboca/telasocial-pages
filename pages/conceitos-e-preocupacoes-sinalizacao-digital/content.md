@@ -27,6 +27,12 @@ Neste caso pode-se observar que a parte dos patrocinadores (os previamente defin
 
 ![Totem de sinalização digital mural com áreas de patrocínio em comunicação visual estática e dinâmica](sinalizacao-digital-patrocinadores.jpg)
 
+### Caso de uso de sistema de sinalização digital interativa com agenda de eventos paralelos
+
+O exemplo abaixo mostra um sistema interativo de sinalização digital que busca as informações da agenda em tempo real, ou seja, quando a programação é alterada pode-se obter uma atualização rápida nas telas no evento. Observa-se que a agenda também apresenta a programação de 9 telas ao mesmo tempo. A programação vai "subindo" com o tempo, ou seja, apresenta-se a partir do momento atual (menos 1-2 horas para que o usuário possa entender o que está acontecendo)
+
+![Sinalização digital com eventos paralelos concorrentes](agenda-multi-salas-simultaneas-sinalizacao-digital-interativa.jpg)
+
 ### Aparelho de TV com bordas reduzidas e proporcionais 
 
 O caso de uso abaixo mostra um sistema de sinalização digital que está sendo instalado em um aparelho tipo Samsung que tem bordas proporcionais. Este caso de uso é interessante pois traz um visual que é agradável para usuários. 
