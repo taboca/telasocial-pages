@@ -43,7 +43,7 @@ As fotos abaixo foram coletadas na rodoviária em São Carlos e mostram que TVs 
 
 O ninho da pomba foi feito no meio de dois aparelhos de TV: 
 
-!a[Pomba descança e faz ninho em TV de sinalização em rodoviária](ninho-de-pomba-sinalizacao-digital.jpg)
+![Pomba descança e faz ninho em TV de sinalização em rodoviária](ninho-de-pomba-sinalizacao-digital.jpg)
 
 
 ## Referências 
