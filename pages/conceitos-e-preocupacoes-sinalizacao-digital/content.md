@@ -1,5 +1,7 @@
 Saiba mais sobre o tradicional conceito e o papel de novas tecnologias que fazem uma revolução em sinalização digital. 
 
+* Atenção: este é um documento que está sendo atualizado com contribuições de várias pessoas e tem o objetivo de servir como referência para desenvolvimento e visar contribuição em especificação de requisitos em sistemas de sinalização digital. Se você quer ser um autor conjunto por favor enviar um e-mail para adm em telasocial ponto com.  
+
 ## Conceito geral de sinalização digital 
 
 Sinalização digital é um termo utilizado para descrever sistemas de apresentação visual que possuem painéis eletrônicos, como painéis de LED, LCD. Grande parte destes sistemas foram utilizados para propaganda mas destacam-se casos de uso emergentes para fins informativos - por exemplo em autovias. Também é emergente o uso de sistemas de sinalização digital que utilizam das tecnologias web assim a experiência do usuário é mais dinâmica e melhorias podem ser colocadas em espaços públicos e semi-públicos.
