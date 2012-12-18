@@ -15,7 +15,7 @@ O exemplo de sinalização abaixo é baseado no caso do [TelaSocial no Evento An
 
 ![Multi telas mural online](sinalizacao-digital-mural-multi-telas.jpg)
 
-## Erros comuns e preocupações  
+## Erros comuns ou preocupações  
 
 ### Problemas com interface do sistema operacional 
 
@@ -34,6 +34,12 @@ O caso abaixo mostra uma experiência que é razoável caso não exista realment
 ### Mensagem de erro técnica em inglês 
 
 ![Sinalização Digital problema experiência crítica](sinalizacao-digital-ingles-undefined.jpg)
+
+### Ninho de pomba na sinalização digital 
+
+![Ninho de pomba se forma em sinalização digital em ambiente público](pomba-sinalizacao-digital.jpg)
+![Pomba descança e faz ninho em TV de sinalização em rodoviária](ninho-de-pomba-sinalizacao-digital.jpg)
+
 
 ## Referências 
 
