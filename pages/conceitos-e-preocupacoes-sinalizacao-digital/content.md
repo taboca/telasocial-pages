@@ -17,11 +17,17 @@ O exemplo de sinalização abaixo é baseado no caso do [TelaSocial no Evento An
 
 ## Erros comuns ou preocupações  
 
-### Problemas com interface do sistema operacional 
+### Vários casos de uso de problemas onde elementos de interface do sistema operacional estão atrapalhando o conteúdo
 
 No exemplo abaixo destacam-se casos de sistemas de sinalização visual em aeroportos que apresentam problemas entre a interface desejada e recursos do sistema operacional. As fotos abaixo foram observadas no período de 2012 e representam preocupações e atenção sobre o que não deve-se fazer.
 
 <iframe width="100%" height="515" src="http://www.youtube.com/embed/396jaJ0Grhc" frameborder="0" allowfullscreen></iframe>
+
+### Caso de uso de várias aplicações em conflito com o espaço visual do sistema de sinalização digital
+
+O caso abaixo mostra uma "pop-up" do sistema operacional e ainda uma janela de erro de uma aplicação Java. Em vários sistemas de sinalização digital pode-se ver esse tipo de comportamento que é atrelado ao fato que os sistemas tem o seu funcionamento como aplicação em sistema do sistema de janelas que foi originalmente criado para usuários — tipo com o mouse. Assim observa-se que existem botões ou opções para o uso do mouse, o que é um grande problema já que sistemas de qualidade tem que oferecer uma experiência de adminstração remota. 
+
+![Várias pop-ups aparecem em cima do sistema de sinalização digital](sinalizacao-digital-popups-windows.jpg)
 
 ### Falta de programação alternativa
 
