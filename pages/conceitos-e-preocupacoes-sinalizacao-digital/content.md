@@ -7,8 +7,6 @@ Sinalização digital é um termo utilizado para descrever sistemas de apresenta
 
 Abaixo tem-se uma coleção de casos de uso em sinalização digital que foram obtidos por meio do projeto TelaSocial e por meio da observação de outros sistemas. O objetivo é coletar informações sobre os vários usos destes sistemas e assim que possamos detectar problemas e oportunidades. 
 
-### Apresentação de vários eventos com base em calendário
-
 ### Multi telas verticais com redes sociais
 
 O exemplo de sinalização abaixo é baseado no caso do [TelaSocial no Evento Anprotec 25 anos](http://blog.telasocial.com/12-telas-em-tempo-real-no-seminario-nacional) e mostra uma configuração do tipo "central de informações" onde o usuário pode saber dos vários tipos de eventos que acontecem — tudo em tempo-real. O exemplo conta com Twitter, mapa do evento, paineis com patrocinadores, notícias via RSS e também a agenda do evento em tempo-real. 
