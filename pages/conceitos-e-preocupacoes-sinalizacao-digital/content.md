@@ -25,7 +25,7 @@ O caso de uso abaixo é de um evento que foi realizado para mais de 1000 pessoas
 
 Neste caso pode-se observar que a parte dos patrocinadores (os previamente definidos) foram impressas no totem. Durante o decorrer do evento surgiram novas demandas de patrocínio assim alguns patrocinadores foram adicionados por meio de um canal online Web na barra inferior do sistema de comunicação visual digital. 
 
-![totem de sinalização digital mural com áreas de patrocínio em comunicação visual estática e dinâmica](sinalizacao-digital-patrocinadores.jpg)
+![Totem de sinalização digital mural com áreas de patrocínio em comunicação visual estática e dinâmica](sinalizacao-digital-patrocinadores.jpg)
 
 ## Erros comuns ou preocupações  
 
