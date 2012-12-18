@@ -45,6 +45,13 @@ O sistema abaixo é um caso de uso do Parque Tecnológico Itaipu e mostra um pai
 
 ![Sistema sinalização interativa mostra reserva de salas em bloco interno](sistema-vertical-wifi-intranet.jpg)
 
+A foto abaixo mostra que o terminal está próximo do "access point" que proporciona a infra-estrutura de rede: 
+
+![Sinalização digital com WIFI](sinalizacao-digital-proximo-wifi.jpg)
+
+É importante observar que o suporte WIFI pode apresentar mais um possível ponto de falha. O caso acima, no Parque Tecnológico Itaipu, é um caso de testes e mostrou performance razoável porque a rede da fundação tem uma qualidade muito boa de sinal e estabilidade no serviço. Isto não é o caso em geral assim recomenda-se o uso de cabos como ethernet. 
+
+
 ## Erros comuns ou preocupações  
 
 ### Vários casos de uso de problemas onde elementos de interface do sistema operacional estão atrapalhando o conteúdo
