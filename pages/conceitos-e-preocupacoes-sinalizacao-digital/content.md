@@ -9,13 +9,13 @@ Abaixo tem-se uma coleção de casos de uso em sinalização digital que foram o
 
 ### Apresentação de vários eventos com base em calendário
 
-
-
 ### Multi telas verticais com redes sociais
 
 O exemplo de sinalização abaixo é baseado no caso do [TelaSocial no Evento Anprotec 25 anos](http://blog.telasocial.com/12-telas-em-tempo-real-no-seminario-nacional) e mostra uma configuração do tipo "central de informações" onde o usuário pode saber dos vários tipos de eventos que acontecem — tudo em tempo-real. O exemplo conta com Twitter, mapa do evento, paineis com patrocinadores, notícias via RSS e também a agenda do evento em tempo-real. 
 
 ![Multi telas mural online](sinalizacao-digital-mural-multi-telas.jpg)
+
+## Erros comuns e preocupações  
 
 ### Problemas com interface do sistema operacional 
 
@@ -23,6 +23,11 @@ No exemplo abaixo destacam-se casos de sistemas de sinalização visual em aerop
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/396jaJ0Grhc" frameborder="0" allowfullscreen></iframe>
 
+### Falta de programação alternativa
+
+O caso abaixo mostra uma experiência que é razoável caso não exista realmente uma programação alternativa. Este não trata-se de um erro porque existem casos onde o adminstrador não fez a definição de programação alternativa. Mas é importante a observação que não é uma experiência agradável para o usuário. 
+
+![Sinalização Digital Mensagem técnica](mensagem-de-erro-sem-alternativa-sinalizacao-digital.jpg)
 
 ## Referências 
 
