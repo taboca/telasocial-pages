@@ -41,6 +41,13 @@ O caso abaixo mostra uma "pop-up" do sistema operacional e ainda uma janela de e
 
 ![Várias pop-ups aparecem em cima do sistema de sinalização digital](sinalizacao-digital-popups-windows.jpg)
 
+### Fundo do Windows é apresentado em sinalização digital com multi-telas em aeroporto 
+
+No caso abaixo pode-se observar que o sistema de telas do aeroporto é baseado no sistema operacional Windows. Devido a um problema de configuração ou programação, os usuários tem uma experiência que não é a desejada. Este tipo de problema é crítico em um ambiente como um aeroporto. 
+
+![Sinalização mural digital de aeroporto com fundo do Windows](sinalizacao-digital-aeroporto-fundo-windows.jpg)
+
+
 ### Falta de programação alternativa
 
 O caso abaixo mostra uma experiência que é razoável caso não exista realmente uma programação alternativa. Este não trata-se de um erro porque existem casos onde o adminstrador não fez a definição de programação alternativa. Mas é importante a observação que não é uma experiência agradável para o usuário. 
