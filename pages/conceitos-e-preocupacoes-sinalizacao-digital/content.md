@@ -21,7 +21,7 @@ O exemplo de sinalização abaixo é baseado no caso do [TelaSocial no Evento An
 
 No exemplo abaixo destacam-se casos de sistemas de sinalização visual em aeroportos que apresentam problemas entre a interface desejada e recursos do sistema operacional. As fotos abaixo foram observadas no período de 2012 e representam preocupações e atenção sobre o que não deve-se fazer.
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/396jaJ0Grhc" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="515" src="http://www.youtube.com/embed/396jaJ0Grhc" frameborder="0" allowfullscreen></iframe>
 
 ### Falta de programação alternativa
 
