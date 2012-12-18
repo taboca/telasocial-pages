@@ -29,6 +29,10 @@ O caso abaixo mostra uma experiência que é razoável caso não exista realment
 
 ![Sinalização Digital Mensagem técnica](mensagem-de-erro-sem-alternativa-sinalizacao-digital.jpg)
 
+### Mensagem de erro técnica em inglês 
+
+![Sinalização Digital problema experiência crítica](sinalizacao-digital-ingles-undefined.jpg)
+
 ## Referências 
 
 * [Sinalização Digital - Digital Signage Wikipedia](http://pt.wikipedia.org/wiki/Digital_Signage) 
