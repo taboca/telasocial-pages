@@ -45,6 +45,11 @@ O ninho da pomba foi feito no meio de dois aparelhos de TV:
 
 ![Pomba descança e faz ninho em TV de sinalização em rodoviária](ninho-de-pomba-sinalizacao-digital.jpg)
 
+### Gigantesco painel de LED ilegível 
+
+O caso abaixo mostra um painel gigante de LED que é praticamente ilegível. Mas neste caso ficou até interessante porque no conteúdo está apresentada a barra do Windows e como se não bastasse ainda tem uma "pop-up" do Windows com alguma mensagem que estaria atrapalhando o conteúdo. 
+
+![Grande painel de sinalização digital com o conteúdo ilegível](sinalizacao-digital-led-ilegivel.jpg)
 
 ## Referências 
 
