@@ -21,6 +21,12 @@ O caso de uso abaixo é de um evento que foi realizado para mais de 1000 pessoas
 
 ![Sistema de gestão de sinalização digital para visualização de 12 TVs](visualizacao-remota-multi-telas.jpg)
 
+### Caso de uso de painel de sinalização digital em tempo-real com uso de painel de sinalização visual com comunicação visual impressa
+
+Neste caso pode-se observar que a parte dos patrocinadores (os previamente definidos) foram impressas no totem. Durante o decorrer do evento surgiram novas demandas de patrocínio assim alguns patrocinadores foram adicionados por meio de um canal online Web na barra inferior do sistema de comunicação visual digital. 
+
+![totem de sinalização digital mural com áreas de patrocínio em comunicação visual estática e dinâmica](patrocinadores-dinamico-e-estatico.jpg)
+
 ## Erros comuns ou preocupações  
 
 ### Vários casos de uso de problemas onde elementos de interface do sistema operacional estão atrapalhando o conteúdo
