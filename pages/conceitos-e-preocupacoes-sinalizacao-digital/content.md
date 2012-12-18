@@ -39,7 +39,7 @@ O caso de uso abaixo mostra um sistema de sinalização digital que está sendo 
 
 ![Aparelho de TV com bordas proporcionais em uso com sistema de sinalização digital](tela-sinalizacao-digital-borda-proporcional.jpg)
 
-## Sistema de sinalização com WIFI em Intranet em bloco interno
+### Sistema de sinalização com WIFI em Intranet em bloco interno
 
 O sistema abaixo é um caso de uso do Parque Tecnológico Itaipu e mostra um painel de sinalização digital que apresenta um conteúdo vinculado com a intranet da instituição. Cada terminal tem um mini-pc que faz a conexão via WIFI em uma VPN da instituição por meio da rede e autenticação 802.11x. Uma vez que o terminal faz o "boot" ele carrega informações que mostram a agenda das salas na instituição, ou seja, está atrelado com o sistema existente na instituição para fins de reservas das salas. 
 
@@ -50,7 +50,6 @@ A foto abaixo mostra que o terminal está próximo do "access point" que proporc
 ![Sinalização digital com WIFI](sinalizacao-digital-proximo-wifi.jpg)
 
 É importante observar que o suporte WIFI pode apresentar mais um possível ponto de falha. O caso acima, no Parque Tecnológico Itaipu, é um caso de testes e mostrou performance razoável porque a rede da fundação tem uma qualidade muito boa de sinal e estabilidade no serviço. Isto não é o caso em geral assim recomenda-se o uso de cabos como ethernet. 
-
 
 ## Erros comuns ou preocupações  
 
