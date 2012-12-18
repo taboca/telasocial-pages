@@ -15,6 +15,12 @@ O exemplo de sinalização abaixo é baseado no caso do [TelaSocial no Evento An
 
 ![Multi telas mural online](sinalizacao-digital-mural-multi-telas.jpg)
 
+### Tela de gestão com visualização em tempo-real de 12
+
+O caso de uso abaixo é de um evento que foi realizado para mais de 1000 pessoas e onde os sistemas de sinalização digital utilizaram 12 telas. Esta foi uma configuração onde cada terminal (computador ligado nas telas) fazia a captura da tela e permitia a transmissão via o padrão Web, assim possibilitando que uma interface de adminstração pudesse obter a visualização de todas as telas com atualizações a cada 15 segundos. 
+
+![Sistema de gestão de sinalização digital para visualização de 12 TVs](visualizacao-remota-multi-telas.jpg)
+
 ## Erros comuns ou preocupações  
 
 ### Vários casos de uso de problemas onde elementos de interface do sistema operacional estão atrapalhando o conteúdo
