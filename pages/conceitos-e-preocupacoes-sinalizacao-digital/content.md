@@ -111,6 +111,7 @@ O caso abaixo mostra um painel gigante de LED que é praticamente ilegível. Mas
 O caso abaixo é típico nos sistemas Windows e mostra um erro grave onde a aplicação de sinalização digital tem o funcionamento "em cima" do sistema gerenciador de janelas do Linux. Assim existe sempre um provável risco onde aplicações do sistema operacional vão estar em funcionamento e podem criar eventos de interrupção na tela "do usuário". No caso, o sistema está esperando uma interação do usuário para efetuar atualizações. 
 
 ![Sistema de sinalização digital Linux com janela de atualização](sinalizacao-digital-aeroporto-linux-atualizacao.jpg)
+* Foto enviada por Fernando Muniz @ [dicionário informal](http://www.dicionarioinformal.com.br)
 
 ## Referências 
 
