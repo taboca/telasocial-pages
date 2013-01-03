@@ -33,6 +33,7 @@ No último dia do evento nosso grupo de desenvolvimento fez um projeto de experi
 
 ![Multi telas com conteúdos específicos de sinalização digital](multi-telas-sinalizacao-digital-interativa.jpg)
 
+![Multi telas mural online digital em desenvolvimento](multi-telas-mural-online-digital.jpg)
 
 
 
