@@ -14,6 +14,17 @@ O projeto, elaborado para a fundação Parque Tecnológico Itaipu, recebeu grand
 
 No total foram utilizadas 12 TVs tipo FULL HD, espalhadas em locais estratégicos. Estes terminais foram conectados na infra-estrutura de rede WIFI que foi disponibilizada pelo grupo de TI do [PTI](http://www.pti.org.br) e também por meio de mini computadores do tipo Net top.
 
+![Visão de monitoramento de 12 telas do mural online e sistema de sinalização digital](mural-online-sinalizacao-digital-monitoramento-telas.jpg)
+
+A imagem acima apresenta a tela de gestão com o monitoramento das imagens das 12 telas utilizadas durante o evento. As imagens são atualizadas a cada 15 segundos e enviadas para uma estação de monitoramento central que neste caso foi um laptop. 
+
+## Uso de padrões Web e integração com calendário 
+
+A experiência visual desenvolvida foi toda baseada em padrões Web e em conformidade com a [licença do código aberto do telaSocial](http://www.telasocial.com/codigo-fonte-licenca-de-uso/). Um dos destaques da implementação foi o componente visual de apresentação da grade de eventos, que foi elaborado para compatibilidade com o formato iCalendar que é um formato amplamente utilizado em produtos conhecidos, como o Google Calendar. Este novo recurso deixou o Tela Social mais flexível e compatível com fontes de conteúdo da rede em tempo real, o que permitiu a inserção de conteúdo baseado em agenda definida por meio de dispositivos móveis — no caso as modificações de eventos foram feitas a partir de um dispositivo celular Android permitindo maior mobilidade. 
+
+![Grade de eventos em tempo real em sinalização digital interativa](grade-de-eventos-em-tempo-real-em-sinalizacao-interativa.jpg)
+
+
 
 
 
