@@ -27,6 +27,14 @@ A experiência visual desenvolvida foi toda baseada em padrões Web e em conform
 
 
 
+# Experimentação Solução Multi Painéis de Sinalização Digital Interativa
+
+No último dia do evento nosso grupo de desenvolvimento fez um projeto de experimentação com o uso de vários painéis com o objetivo de proporcionar uma experiência tipo "central de informações" em tempo real. O que mudou foi principalmente o fato que cada terminal estava com um conteúdo diferenciado com focos específicos: 
+
+![Multi telas com conteúdos específicos de sinalização digital](multi-telas-sinalizacao-digital-interativa.jpg)
+
+
+
 
 
 
