@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="description" content="TelaSocial é uma solução para Sinalização digital com o uso de tecnologias e padrões Web abertos. Com o TelaSocial pode-se criar uma ótima experiência de comunicação visual e interativa para os usuários nos espaços públicos e semi-públicos. " >
+<meta name="keywords" content="Sinalização Interativa Digital, Sinalização Digital, Comunicação Visual, Digital Signage, Mural Online, Mural Web, Mural Interativo, Painel Interativo, Padrões Abertos, Animações em HTML, Animações gráficas Web, tela web, Web TV, Web Online TV, Online Web TV, Social TV, Open Source, Digital Online TV, Social-aware TV">
+<title>Sinalização Digital e Interativa Enterprise — TelaSocial</title>
+<script type="text/javascript" src="./script/jquery.js"></script>
+<script type="text/javascript" src="./script/tagvisor.js"></script>
+<script type="text/javascript" src="./script/site.js"></script>
+
+<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="/css/application.css" type="text/css" media="all">
+<link rel="stylesheet" href="/css2/base2.css" type="text/css">
+
+<script>
+function start() { 
+  if(document.location.toString().indexOf("mode")>-1) { 
+    var param = document.location.toString().split("mode=");
+    if(param[1]=="tv") {
+	tv.add($('#animation li'));
+	tv.tickMode = true;
+	tv.play();
+	$('#linktela').html('Visite o site');
+	$('#linktela').attr('href','index.html');
+	$('#buttontela').removeClass('button-blue');
+    } 
+  }
+}
+</script>
+</head>
+<body onload='start()'>
+
+<div class="section-background-odd" id='slide1'>
+<div class="sections" class='topheader'>
+<img src='/images/tela-logo-dark.png' alt='sinalização digital interativa'/>
+<h1 style='margin-top:0px;font-weight:normal'>Sinalização Digital e Interativa tipo enterprise para gestão de telas interativas em ambientes distribuídos</h1>
+
+<div class='toplinks'>
+<div class="fb-like" id="fb" data-href="http://www.telasocial.com" data-send="false" data-layout="button_count" data-width="60" data-show-faces="true"></div>
+<div id='buttontela' ><a id='linktela' href='index.html?mode=tv'>assistir como tela social</a></div>
+
+</div>
+</div>
+</div>
+
+<div class='shade-bottom'></div>
+
+<div class="sections" >
+
+<div class="column-medium" style='width:360px'>
+
+<div id='slide2' style='text-align:center;width:360px'>
+
+    <a data-pin-do="embedBoard" href="http://pinterest.com/telasocial/sinalizacao-digital-interativa/" data-pin-scale-width="140" data-pin-scale-height="700" data-pin-board-width="290"></a>
+
+</div>
+
+
+</div> <!-- end col 1 --> 
+
+<div class="column-medium" style=''>
+
+<p> A plataforma TelaSocial oferece soluções em <strong>Sinalização Digital</strong> com o uso de tecnologias e <strong>padrões Web abertos</strong>. Trata-se de uma solução de <strong>comunicação visual</strong> que permite a gestão de <strong>sistemas visuais e interativos</strong> em ambientes diversos como saguões, salas de espera, corredores e também em cenários criativos e modernos.  </p>
+
+<div id='slide3' style='text-align:center'>
+	<img src='images/sinalizacao-digital.jpg' style='margin:1em;box-shadow:-2px 2px 10px black' width='330' alt='Sinalização Digital'/>
+</div>
+
+<p> A tecnologia oferece solução para efetiva governança dos painéis de maneira distribuída — uma solução flexível em relação ao aspecto visual e à programação e capacidade de integração direta com web sites e redes sociais.  </p>
+
+<div style='text-align:center'>
+<img src='images/sinalizacao-interativa.jpg' style='margin:1em;box-shadow:-2px 2px 10px black' width='330' alt='Comunicação Digital' />
+</div>
+
+<p> As soluções de <strong>sinalização digital</strong> do TelaSocial são customizadas para seu negócio. Inovadoras e elaboradas com atenção aos detalhes, elas buscam atender as necessidades do seu projeto além de proporcionar novas oportunidades e uma ótima experiência para os usuários em ambientes.  </p>
+
+</div> <!-- col 2 -->
+</div>
+
+<div class='shade-top'></div>
+
+<div id='slide5'>
+<div class="section-background" >
+<div class='sections'>
+
+<h3>Tecnologia aberta e padrões Web</h3>
+
+<img src='images/visao.png' align='left' />
+<p>
+O sistema de software é baseado na tecnologia Gecko (<a href='http://www.mozilla.org/projects/powered-by.html'>Powered by Mozilla</a>) e oferece uma infra-estrutura de padrões abertos que é baseada nos padrões Web, como HTML e CSS, além de outros. A plataforma básica funciona em sistema Linux que dispensa pagamentos como royalties. A Taboca Labs/TelaSocial desenvolve aplicações baseadas no código fonte do TelaSocial, com soluções específicas para seu negócio ou instituição. Veja a lista abaixo e entenda mais sobre alguns dos projetos e clientes que utilizaram nossa tecnologia e soluções. 
+</p>
+
+<h3>Revolucionário TagVisor</h3>
+
+<p>
+Do projeto Tela Social nascem soluções práticas. O componente TagVisor é uma delas e serve para transformar páginas Web em apresentações animadas e suaves que servem bem para ambientes e sistemas como TVs internas e <strong>sinalização visual</strong>.
+</p>
+
+<p><a href='index.html?mode=tv'>Experimente o TagVisor</a></p>
+
+</div>
+</div>
+</div>
+
+<div class='shade-bottom'></div>
+
+<div class="sections" >
+
+    <div class="column">
+      <div id="sidebar">
+        <div id="sidebar-node">
+	  Se você quiser contribuir com um artigo no repositório TelaSocial Pages saiba mais no projeto do GitHub <a href='https://github.com/taboca/telasocial-pages'>GitHub TelaSocial Pages</a>
+          <h2>Docs map</h2>
+          <nav id="toc">
+          </nav>
+        </div>
+      </div>
+    </div>
+
+    <div  style='float:right; width:480px;padding:20px;border:2px dotted #ddd'>
+      <div id="page">
+        <article class="article">
+          <div class="metadata">
+            <h4>
+              <span class="title"></span>
+<!--
+              <small>
+                <span class="about">por 
+                  <strong class="author">
+                    <span class="name"></span>
+                  </strong>
+                </span>
+                <span class="about if-date"> on <em><time class="date"></time></em></span>
+              </small>
+
+-->
+            </h4>
+          </div>
+	  <div>
+          <a href="/#" class="readMore">Saiba mais...</a>
+          <div class="content" ></div>
+	  </div>
+        </article>
+      </div>
+    </div>
+
+</div>
+
+<div class="section-background" style="margin-top:2em">
+<div class="footer-section" >
+
+<div class="column-short">
+<p><strong >english</strong></p>
+<p><a href='index-en.html'>Main page</a></p>
+</div>
+
+<div class="column-short">
+<p>
+<strong >conheça</strong>
+</p>
+<p><a href='/p/folder-telasocial-15x15.pdf'>Folder em PDF</a></p>
+<p><a href='/visao-geral-sinalizacao-web'>Sinalização Interativa</a></p>
+<p><a href='/conceitos-e-preocupacoes-sinalização-digital'>Sinalização Digital</a></p>
+<p><a href='https://github.com/taboca/telasocial-pages'>Tela Social KB</a></p>
+</div>
+
+<div class="column-short">
+<p>
+<strong >desenvolvedores</strong>
+</p>
+<p><a href='https://github.com/taboca/TelaSocial'>Código Fonte</a></p>
+<p><a href='http://labs.telasocial.com'>Tela Social Labs</a></p>
+<p><a href='/codigo-fonte-licenca-de-uso'>Licenças</a></p>
+
+</div>
+
+<div class="column-short">
+<p>
+<strong >empresa</strong>
+</p>
+<p><a href='http://www.linkedin.com/company/telasocial-sinaliza-o-digital-interativa'>TelaSocial Sinalização Digital Interativa</a></p>
+<p><a href='http://www.telasocial.com/contato.html'>Contato</a></p>
+<p><a href='http://www.telasocial.com/quemsomos.html'>Quem somos</a></p>
+<p><a href='http://blog.telasocial.com'>Blog</a></p>
+</div>
+
+<div class="column-short" >
+<p>
+<strong >casos de uso</strong>
+</p>
+
+<p><a href='http://2012.latinoware.org/2012/10/os-recursos-da-telasocial-na-latinoware-2012/'>Latinoware 2012</a></p>
+<p><a href='http://blog.telasocial.com/12-telas-em-tempo-real-no-seminario-nacional'>Seminário Anprotec</a></p>
+<p><a href='http://blog.telasocial.com/telasocial-hosted-na-sematron-viii-em-sao-car'>Sematron VIII</a></p>
+<p><a href='http://www.usp.br/agen/?p=25571'>ICMC-USP</a></p>
+<p><a href='http://blog.telasocial.com/conheca-o-telasocial-no-braziljs'>BrazilJS</a></p>
+
+</div>
+</div>
+</div>
+
+<div class='shade-bottom'></div>
+
+<div id="footer">
+<div style='float:right;text-align:left;width:530px'>
+Taboca Labs © 2009-2013 — Taboca, TelaSocial e TagVisor são <i>trademarks</i> de Taboca Comunicações — todos os direitos reservados.  <br /><br /> Nossa missão é formar parcerias, melhorar grupos de trabalho de usuarios, permitir melhor comunicação em áreas de lazer, shows, feiras, áreas comuns e espaços sociais diversos.
+</div>
+<div style='float:left;width:230px;text-align:right'>
+
+<img src='images/logo.png' width='190 ' />
+
+</div>
+</div>
+
+<ul id='animation' style='display:none'>
+  <li data-target='slide1' data-time="1s" data-effect="scalefit" data-duration="3s" />
+  <li data-target='slide2' data-time="6s" data-effect="scalefit" data-duration="3s" />
+  <li data-target='slide3' data-time="12s" data-effect="scalefit" data-duration="3s" />
+  <li data-target='slide5' data-time="18s" data-effect="scalefit" data-duration="3s" />
+  <li data-target='slide1' data-time="24s" data-effect="scalefit" data-duration="3s" />
+</ul>
+
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-169144-26']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<div id="fb-root"></div>
+<script>    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+        fjs.parentNode.insertBefore(js, fjs);
+    } (document, 'script', 'facebook-jssdk'));
+</script><script type="text/javascript">
+var sUrl = window.location;
+document.getElementById('fb').setAttribute('href', sUrl);
+</script>
+
+
+  </body>
+</html>

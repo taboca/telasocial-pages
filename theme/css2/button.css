@@ -1,0 +1,41 @@
+
+.button a { 
+	text-decoration:none; 
+	color:black;
+
+} 
+.button {
+        width:250px;
+        margin:0px;
+	cursor:pointer;
+        padding:0px;
+	padding-top:22px;
+        background:url(/images/gray.png) no-repeat 0 0;
+        text-align:center;
+	font-size:115%;
+	color:black;
+        height:50px;
+}
+
+.button-highlight {
+	opacity:.8;
+}
+
+.button-blue {
+        background:url(/images/blue.png) no-repeat 0 0;
+}
+
+.button-orange {
+        background:url(/images/orange.png) no-repeat 0 0;
+}
+.button-lightblue {
+        background:url(/images/lightblue.png) no-repeat 0 0;
+}
+.button-green {
+        background:url(/images/green.png) no-repeat 0 0;
+}
+.button-odd {
+        background:url(/images/image.png) no-repeat 0 0;
+}
+
+
