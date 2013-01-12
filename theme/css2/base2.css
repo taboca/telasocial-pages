@@ -1,6 +1,7 @@
 h1 { 
-	font-size:140%;
+	font-size:160%;
 	font-weight:bold;
+    font-family:Montserrat;
 } 
 
 li { list-style-type:square; color:red;
