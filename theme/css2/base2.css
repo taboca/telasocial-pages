@@ -58,7 +58,7 @@ li { list-style-type:square; color:red;
   pre { padding:1em } 
 
   .section-background-odd { 
- 	background-color:#a94;font-size:120%;
+ 	background-color:#05f;font-size:120%;
 
         background:-webkit-radial-gradient( 50% 120%, circle , #05f, #000);
         background:-o-radial-gradient( 50% 120%, circle , #05f, #000);
