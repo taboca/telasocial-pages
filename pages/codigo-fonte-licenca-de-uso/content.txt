@@ -6,7 +6,7 @@ O Tela Social, aplicação cliente de software, está listado como [Powered by M
 
 ## Cobertura de código 
 
- Exceto onde informado, todo o código fonte atualmente disponibilizado [1] por meio do sistema TelaSocial trata-se de sofware livre e tem código aberto. Este código fonte representa a camada de aplicação e é disponível por meio da licença MPL 1.1 [2], da licença GNU General Public License (GPL) versão 2.0 [3] e da licença GNU Lesser General Public License (LGPL) versão 2.1 [4]. Estas licenças são reconhecidas e aprovadas pela OSI [5]. 
+Exceto onde informado, todo o código fonte atualmente disponibilizado [1] por meio do sistema TelaSocial, trata de sofware livre e tem código aberto. Este código fonte representa a camada de aplicação e é disponível por meio da licença MPL 1.1 [2], da licença GNU General Public License (GPL) versão 2.0 [3] e da licença GNU Lesser General Public License (LGPL) versão 2.1 [4]. Estas licenças são reconhecidas e aprovadas pela OSI [5].
 
 ### Referências
 
