@@ -18,9 +18,9 @@ O Tela Social, aplicação cliente de software, está listado como [Powered by M
 
 ## Sobre patentes
 
- O projeto TelaSocial oferece inovação através de tecnologia aberta e visa oportunidades. Assim não existem patentes ( arquivadas ou garantidas ) de autoria do projeto TelaSocial ou Marcio dos Santos Galli Informática que se refere a funcionalidade do TelaSocial, primeiro por ter sido baseado em tecnologias abertas e padrões como W3C, e também pelo propósito geral do projeto que é de facilitar e permitir modificações e evolução do código fonte do sistema. Neste sentido vale observar a política W3C [6] sobre patentes que tem o objetivo de garantir que as recomendações W3C possam ser implementadas sem a necessidade de pagamento de royalties, ou seja, que tenha uma política livre de pagamento de royalties.
+O projeto TelaSocial oferece inovação através de tecnologia aberta e visa oportunidades. Assim não existem patentes ( arquivadas ou garantidas ) de autoria do projeto TelaSocial ou Marcio dos Santos Galli Informática que se refiram a funcionalidade do TelaSocial, primeiro por ter sido baseado em tecnologias abertas e padrões como W3C, e também pelo propósito geral do projeto que é de facilitar e permitir modificações e evolução do código fonte do sistema. Neste sentido vale observar a política W3C [6] sobre patentes que tem o objetivo de garantir que as recomendações W3C possam ser implementadas sem a necessidade de pagamento de royalties, ou seja, que tenha uma política livre de pagamento de royalties.
 
-Vale lembrar que a não existência de patentes, iniciadas pelo telaSocial, não implica que outras empresas não criaram patentes na área, ou seja, o uso e/ou modificação do produto é de responsabilidade daquele que faz o uso. 
+Vale lembrar que a não existência de patentes, iniciadas pelo Tela Social, não implica em que outras empresas não criaram patentes na área, ou seja, o uso e/ou modificação do produto é de responsabilidade daquele que faz o uso.
 
 ### Referências
 
