@@ -1,6 +1,8 @@
 Este artigo apresenta resultados do desenvolvimento de sistema de controle de qualide e monitoramento de múltiplas telas baseado em casos reais com o Tela Social. O tópico relaciona-se com testes e qualidade, sistemas em tempo-real, engenharia de software, governança, dentre outros. 
 
-## Introdução e desafio
+## Introdução 
+
+* (Artigo em edição](https://github.com/taboca/telasocial-pages/tree/master/pages/qualidade-testes-continuos) 
 
 Sistemas modernos de sinalização digital utilizam do meio Internet para a transmissão de dados. Tal solução é uma abordagem efetiva pois minimiza-se os custos de transmissão pois os dados enviados são mais leves — pacotes de dados e não imagens de vídeo. Tal modelo tem custo efetivo para a gestão de painéis em ambientes internos pois estes ambientes já possuem uma rede interna TCP/IP com infra estutura cabeada ou em alguns casos uma infra estrutura via WIFI. 
 
