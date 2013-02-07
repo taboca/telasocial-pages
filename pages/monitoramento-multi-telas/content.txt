@@ -28,7 +28,7 @@ Sistema Mediador é lançado e começa alguns processos que criam relatórios do
 
 * Ping — script faz ping na rede de tempos em tempos e agrega valores para fins de relatório e análise dos dados; 
 * Screenshot — script faz captura da tela real e converte os bits em JPG; 
-* Quality - server é lançado para oferecer dados básicos de testes e screenshot. 
+* Quality — server é lançado para oferecer dados básicos de testes e screenshot. 
 ## Feedback
 
 Estes sistemas de monitoramento e qualidade refletem a atividade do projeto e contribuições entre parceiros do projeto. Se sua instituição tem um desafio ou caso de uso ou necessidades em qualidade por favor entre em contato. A ideia é criarmos mais casos de testes para constante melhorias em qualidade em sistemas de sinalização digital web.
