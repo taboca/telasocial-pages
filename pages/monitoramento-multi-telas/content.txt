@@ -31,5 +31,5 @@ Sistema Mediador é lançado e começa alguns processos que criam relatórios do
 * Quality - server é lançado para oferecer dados básicos de testes e screenshot. 
 ## Feedback
 
-Estes sistemas de monitoramento e qualidade refletem a atividade do projeto e contribuições entre parceiros do projeto. Se sua instituição tem um desafio ou caso de uso ou necessidades em qualidade por favor entre em contato. A ideia é criarmos mais casos de testes e garantir qualidade do sistema. 
+Estes sistemas de monitoramento e qualidade refletem a atividade do projeto e contribuições entre parceiros do projeto. Se sua instituição tem um desafio ou caso de uso ou necessidades em qualidade por favor entre em contato. A ideia é criarmos mais casos de testes para constante melhorias em qualidade em sistemas de sinalização digital web.
 
