@@ -1,0 +1,35 @@
+Este artigo apresenta resultados do desenvolvimento de sistema de controle de qualide e monitoramento de múltiplas telas baseado em casos reais com o Tela Social. O tópico relaciona-se com testes e qualidade, sistemas em tempo-real, engenharia de software, governança, dentre outros. 
+
+## Introdução e desafio
+
+Sistemas modernos de sinalização digital utilizam do meio Internet para a transmissão de dados. Tal solução é uma abordagem efetiva pois minimiza-se os custos de transmissão pois os dados enviados são mais leves — pacotes de dados e não imagens de vídeo. Tal modelo tem custo efetivo para a gestão de painéis em ambientes internos pois estes ambientes já possuem uma rede interna TCP/IP com infra estutura cabeada ou em alguns casos uma infra estrutura via WIFI. 
+
+## Visão geral monitoramento
+
+A imagem abaixo mostra uma página HTML que é a interface que permite que gestores possam verificar todas as imagens de todas as telas em uma instituição. O caso abaixo é um screenshot da interface de gestão de um projeto real com 16 telas. Cada quadro identifica o número (final do IP) do terminal e também o bloco ou local onde a tela se encontra: 
+
+![Gestão multi telas Tela Social](sinalizacao-multi-telas.jpg)
+
+### Caso de uso: erro de conexão
+
+A interface apresenta um caso de uso importante — as telas do bloco10 e bloco06. Estas não estão servindo suas 'screenshots' e assim o sistema de gestão oferece um meio para que o problema seja corrigido. O comportamento pode ocorrer devido a diversos fatores como queda da infra-estrutura de rede, queda de energia elétrica no terminal ou defeito no terminal. 
+
+### Caso de uso: startup e monitoração 
+
+Startup — sistema Linux faz o boot normal em modo texto e inicia a conexão com rede. Depois o sistema de monitoramento é lançado e faz a gestão inicial de qualide com verificação se o TelaSocial está em funcionamento ou não. 
+
+### Caso de uso: uso de memória ultrapassado
+
+Sistema de monitoramento, processo Python, verifica se o browser Engine ultrapassou limite de memória ou se o processo não mais existe. Em caso de falha o sistema lança a aplicação cliente, Browser Engine, novamente. Aplicação Browser Engine tenta buscar aplicação local. 
+
+### Caso de uso: canal de agregação e testes
+
+Sistema Mediador é lançado e começa alguns processos que criam relatórios do estado de cada terminal — são eles: 
+
+* Ping — script faz ping na rede de tempos em tempos e agrega valores para fins de relatório e análise dos dados; 
+* Screenshot — script faz captura da tela real e converte os bits em JPG; 
+* Quality - server é lançado para oferecer dados básicos de testes e screenshot. 
+## Feedback
+
+Estes sistemas de monitoramento e qualidade refletem a atividade do projeto e contribuições entre parceiros do projeto. Se sua instituição tem um desafio ou caso de uso ou necessidades em qualidade por favor entre em contato. A ideia é criarmos mais casos de testes e garantir qualidade do sistema. 
+
