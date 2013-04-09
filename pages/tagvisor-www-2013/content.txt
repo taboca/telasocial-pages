@@ -4,6 +4,12 @@ O TagVisor será demonstrado na conferência [WWW 2013](http://www2013.org/) no 
 
 * Demo -> [TagVisor: extending web pages with interaction events to support presentation in digital signage](http://labs.telasocial.com/tagvisor-demo/)
 
+## Esta página servirá de repositório e anotações em relação ao evento WWW 2013
+
+### Coisas interessantes da WWW2013 anotação Marcio
+
+* [Tim Berners-Lee, Sir, vai estar lá](http://www2013.org/2012/12/20/tim-berners-lee-will-be-in-rio-de-janeiro/)
+* [lista de demos aprovadas](http://www2013.org/2013/03/27/accepted-papers-demos-track/) 
 
 
 
