@@ -1,22 +1,26 @@
 Saiba um pouco sobre as visões de produto e também toda a infra estrutura tecnológica que oferece suporte para o projeto Tela Social.  
 
-## Projetos > customizações em Sinalização Digital Interativa (PDF)
+## Visão geral
 
 Esta apresentação elabora sobre a solução TelaSocial e tipos de projetos de desenvolvimento oferecidos por Taboca Comunicações. Destacam-se casos de uso de projetos anteriores e uma visão introdutória sobre os tipos de customização que podem ser feitos. 
 
-* PDF -> [Customização Sinalização Interativa TelaSocial](http://www.telasocial.com/downloads/SinalizacaoDigitalInterativa-enterprise.pdf)
+[Customização Sinalização Interativa TelaSocial](http://www.telasocial.com/downloads/SinalizacaoDigitalInterativa-enterprise.pdf)
 
-## Paper original (apresentado III conf W3C Brasil) 
+## Casos de Uso 
 
-Este paper tem teor técnico e representa o primeiro trabalho formal que resultou no projeto Tela Social. Introdução: a crescente disponibilidade de painéis digitais oferece novas oportunidades com relação as soluções de apresentação de conteúdo nos ambientes físicos nas comunidades. Com as melhorias de conectividade na Internet e a constante evolução das tecnologias que dão suporte aos padrões Web, novos desafios de interação usuário-computador podem ser explorados. Nesse contexto, o projeto aborda as possibilidades de uso de padrões e tecnologias Web, como infra-estrutura para uma experiência de comunicação e interação em ambientes físicos. Propõe-se um modelo de programação que seja aberto, distribuído, e que reflete a natureza dinâmica da Web, em contraposição ao modelo centralizado de programação tradicional, como da televisão. O projeto aborda novas oportunidades de comunicação que relacionam eventos de informações da Web, visando benefícios aos usuários nas comunidades.
+Projetos de parceiros e instituições que relacionam o Tela Social: 
 
-* PDF -> [Paper III W3C Conferência Brasil TelaSocial](http://www.telasocial.com/downloads/paper-telasocial-iii-w3c.pdf)
+* [Nova Concepção para Jornal Mural em Ambiente Corporativo](http://www.pti.org.br/sites/default/files/artigo_intercom_-_copia_ok.pdf) @ pti.ogr.br
+* [A New Concept for a Corporate News Board](http://www.pti.org.br/sites/default/files/artigo_intercom_-_copia_2_-_english.pdf) English @ pti.org.br
+## Papers  
 
-## Palestra Tecnológica — todas páginas Web se tornam animadas (2013 inédita) 
+Estes papers possuem teor técnico e representam trabalhos na parte de tecnologia do projeto Tela Social. 
 
-* Toda página web também é uma aprentação animada - nova palestra do projeto TelaSocial que mostra o componente TagVisor e as possibilidades quanto a criação de apresentações animadas baseadas em páginas HTML existentes. A apresentação elabora sobre os fundamentos e potenciais dos padrões web e foca no caso do uso do tTagVisor que pode ser visto no site telasocial no modo [modo telasocial](http://www.telasocial.com?mode=tv)
+* [Um Modelo baseado em Padrões Web para Apresentação de Conteúdo Interativo em Meios Sociais](http://www.telasocial.com/downloads/paper-telasocial-iii-w3c.pdf) (PDF Portuguese)
+* [TagVisor: Extending Web Pages with Interaction Events to Support Presentation in Digital Signage](http://www.telasocial.com/downloads/demo67-galli.pdf) (PDF English)
 
-### Palestras anteriores
+
+### Palestras 
 
 * 2012 -> Uso de Padrões Abertos Web para as Telas Sociais @ Latinoware 2012, Foz do Iguaçú, PR
 * 2012 -> [Powered by Mozilla Web finds Physical Spaces](https://wiki.mozilla.org/MozCampLATAM2012/Schedule) @ MozCamp, Buenos Aires, Argentina
@@ -24,6 +28,4 @@ Este paper tem teor técnico e representa o primeiro trabalho formal que resulto
 ## Referências
 
 * [TelaSocial Tecnologia Aberta](http://www.slideshare.net/taboca/tela-social-tecnologiaaberta#btnNext)
-
-
 
