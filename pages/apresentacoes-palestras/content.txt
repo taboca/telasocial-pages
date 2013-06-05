@@ -12,6 +12,7 @@ Projetos de parceiros e instituições que relacionam o Tela Social:
 
 * [Nova Concepção para Jornal Mural em Ambiente Corporativo](http://www.pti.org.br/sites/default/files/artigo_intercom_-_copia_ok.pdf) @ pti.ogr.br
 * [A New Concept for a Corporate News Board](http://www.pti.org.br/sites/default/files/artigo_intercom_-_copia_2_-_english.pdf) English @ pti.org.br
+
 ## Papers  
 
 Estes papers possuem teor técnico e representam trabalhos na parte de tecnologia do projeto Tela Social. 
