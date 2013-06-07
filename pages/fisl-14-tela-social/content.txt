@@ -29,6 +29,6 @@ O projeto FISL14/ASL é uma oportunidade para desenvolvedores e também profissi
 
 Existem ainda atividades extras sendo elaboradas em sincronia com o projeto TelaSocial durante o FISL. Uma delas trata-se da demonstração de aplicações tipo Mural Web FULLHD com Raspbery Pi e utilização da infra estrutura Gecko com a aplicação Tela Social. A ideia é criar a Tela do FISL no Raspbery PI. Participantes também poderão aprender sobre sobre o projeto B2G da Mozilla, na questão de outros usos da tecnologia, como telas de ambiente. 
 
-## Contato
+## Sobre  
 
-Saiba mais informações sobre os usos do [Tela Social](http://www.telasocial.com) ou entre [em contato](http://www.telasocial.com/contato.html). 
+Saiba mais informações sobre os usos do [Tela Social](http://www.telasocial.com) ou entre [em contato](http://www.telasocial.com/contato.html). Artigo revisão por Diany Nakamura e [Gedini@LpeU](http://www.lpeu.com.br/pro/Gedini)
