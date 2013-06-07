@@ -1,28 +1,23 @@
 
-Ribieirão Preto SP e Porto Alegre RS — 6 de Junho de 2013. Os participantes do FISL14 poderão acompanhar o que acontece no evento por meio da tecnologia do Tela Social, (http://www.telasocial.com) que proporciona uma visão em tempo-real dos acontecimentos em redes sociais e a programação do evento. São os murais Web #FISL14, que estarão espalhados por meio de modernas TVs, nos corredores do centro de eventos da PUC em Porto Alegre, de 3 a 6 de Julho, durante o 14o Forum Internacional de Software Livre (FISL).
+Ribeirão Preto SP e Porto Alegre RS — 6 de Junho de 2013.  
+
+Os participantes do FISL14 poderão acompanhar, pela tecnologia do Tela Social (http://www.telasocial.com),  toda a programação do evento em tempo real e em conexão  com redes sociais. São os murais Web #FISL14, que estarão espalhados por meio de modernas TVs nos corredores do centro de eventos da PUC, em Porto Alegre, de 3 a 6 de Julho, durante o 14o Forum Internacional de Software Livre (FISL).
 
 O projeto é resultado de uma parceria entre a ASL e Tela Social Comunicação. O Tela Social foi o escolhido por ser um pioneiro em suporte para sistemas de comunicação com interação em tempo real e conteúdo Web, além de ser uma tecnologia baseada em padrões abertos. A solução também capacitará a ASL para dar continuidade ao projeto e evoluir para futuras versões.
 
 ## Solução Tecnológica 
 
-A experiência ocorrerá por meio de vários terminais e televisores de alta definição, mas com um conteúdo participativo e atrelado aos interesses dos participantes. A infra-estrutura, que é baseada em padrões W3C como HTML5, e a mesma de navegadores Web. Toda a programação visual é vinculada à canais de conteúdo que existem em fontes do FISL ou de redes sociais vinculadas ao evento, como Twitter, Identi.ca, dentre outros.O objetivo é propriciar uma visão do que acontece no evento e informar aos usuários o que é relevante, além de possíveis mudanças em grade ou informações dinâmicas importantes para os usuários. Os principais segmentos de conteúdo serão: 
-
-* Clima / Tempo 
-* Grade de Programação FISL 
-* Atividades Sociais (Twitter, Identi.ca) 
-* Fotos de redes sociais
-* Destaques 
-
-## Arquitetura de conteúdos 
+A experiência ocorrerá por meio de vários terminais e televisores de alta definição, porém, com um conteúdo participativo e atrelado aos interesses dos participantes. A infraestrutura é baseada em padrões W3C como HTML5 e a mesma de navegadores Web. Toda a programação visual é vinculada a canais de conteúdo que existem em fontes do FISL ou de redes sociais vinculadas ao evento, como Twitter, Identi.ca, dentre outros. O objetivo é propriciar uma visão do que acontece no evento em tempo real, informar aos usuários o que é relevante, além de possíveis mudanças em grade ou outras informações dinâmicas de igual importância. Os principais segmentos de conteúdo da aplicação são apresentados na arquitetura: 
 
 ![Visualização geral de conteúdos e segmentos](arquitetura-segmentos-tela.png)
 
 ## O Tela Social no FISL 
 
-O Tela Social tem história no FISL. Lançado em 2010 e com apoio do FISL, a versão inicial foi uma implementação bem sucedida e aconteceu no projeto coordenado por Lucas Alberto (GT Cultura). Na primeira versão, o projeto tinha 3 (três) telas e um telão e foi inovador com componentes como Twitter, Identi.ca Flickr além de notícias da organização. Na época sem sincronização de informações do calendário de atividades. A primeira implementação da Tela de eventos aconteceu naquele FISL e depois em vários outros eventos no Brasil. Além da tela de eventos, a solução Tela Social também é utilizada em sua versão Jornal Mural Web que pode ser utilizada em formato permanente em ambientes públicos. 
+O Tela Social tem história no FISL. Lançado em 2010 e com apoio do FISL, a versão inicial foi uma implementação bem sucedida e aconteceu no projeto coordenado por Lucas Alberto (GT Cultura). Na primeira versão, o projeto tinha 3 (três) telas e um telão, e foi inovador com componentes como Twitter, Identi.ca Flickr, além de notícias da organização; na época, sem sincronização de informações do calendário de atividades. A primeira implementação da Tela de eventos aconteceu naquele FISL e, depois,  em vários outros eventos no Brasil. Além da tela de eventos, a solução Tela Social é utilizada, também, em sua versão Jornal Mural Web, modalidade em formato permanente para ambientes públicos. 
 
-O código do projeto, customizações para o FISL / ASL, será disponível no repositório GitHub sendo um código compatível com a plataforma/sistema TelaSocial (também disponível com código aberto). O Tela Social é uma solução tecnológica que faz apresentação de informações em tempo-real em painéis tipo TV FULLHD com base em tecnologia de navegadores Web. O sistema utiliza-se do “engine” Gecko, assim merecedor do emblema “Powered by Mozilla”. O projeto foi idealizado em 2009 e desde então vem mudando a cada apresentação em ambientes públicos e causando benefícios para comunidades com um modelo mais participativo, em termos de conteúdo, que é vinculado com os canais Web de interesse da localidade. O Tela Social é todo baseado em padrões abertos Web, como HTML5, CSS3, DOM, além de outros. Para maiores informações sobre o Tela Social, visite http://www.telasocial.com.
+O código do projeto, customizações para o FISL / ASL, estará disponível no repositório GitHub, um código compatível com a plataforma/sistema TelaSocial (também disponível com código aberto). O Tela Social é uma solução tecnológica que faz apresentação de informações em tempo real, em painéis tipo TV FULLHD, com base em tecnologia de navegadores Web. O sistema utiliza-se do “engine” Gecko, assim merecedor do emblema “Powered by Mozilla”. O projeto foi idealizado em 2009 e, desde então, vem mudando a cada apresentação em ambientes públicos e causando benefícios para comunidades, com um modelo mais participativo em termos de conteúdo, vinculado com os canais Web de interesse da localidade. O Tela Social é todo baseado em padrões abertos Web, como HTML5, CSS3, DOM, além de outros. Para maiores informações sobre o projeto, visite http://www.telasocial.com.
 
 ## Banners 
 
 ![Banner](fisl.jpg)
+
