@@ -21,3 +21,10 @@ O código do projeto, customizações para o FISL / ASL, estará disponível no 
 
 ![Banner](fisl.jpg)
 
+## Oportunidades
+
+O projeto FISL14/ASL é uma oportunidade para desenvolvedores e também profissionais em adminstração e comunicação social. O projeto irá selecionar 4 contribuidores, que deverão se envolver no projeto e contribuir com as construções do Tela Social durante o evento. Estes, em contra-partida, receberão credenciais de participantes durante o FISL. Também existe uma oportunidade para um desenvolvedor que trabalha com NodeJS e é interessado em tecnologias cliente e servidor. Interessados no projeto específico (FISL14) podem entrevistar com Marcio (mgalli em telasocial ponto com / #FISL14). 
+ 
+## Labs & Desenvolvimento 
+
+Saiba mais informações sobre os usos do [Tela Social](http://www.telasocial.com) ou entre [em contato](http://www.telasocial.com/contato.html). 
