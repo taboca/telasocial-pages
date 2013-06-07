@@ -13,9 +13,9 @@ A experiência ocorrerá por meio de vários terminais e televisores de alta def
 * Fotos de redes sociais
 * Destaques 
 
-## Visão geral protótipo proposta 
+## Arquitetura de conteúdos 
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/MzdibODm2KA" frameborder="0" allowfullscreen></iframe>
+![Visualização geral de conteúdos e segmentos](arquitetura-segmentos-tela.png)
 
 ## O Tela Social no FISL 
 
@@ -23,4 +23,6 @@ O Tela Social tem história no FISL. Lançado em 2010 e com apoio do FISL, a ver
 
 O código do projeto, customizações para o FISL / ASL, será disponível no repositório GitHub sendo um código compatível com a plataforma/sistema TelaSocial (também disponível com código aberto). O Tela Social é uma solução tecnológica que faz apresentação de informações em tempo-real em painéis tipo TV FULLHD com base em tecnologia de navegadores Web. O sistema utiliza-se do “engine” Gecko, assim merecedor do emblema “Powered by Mozilla”. O projeto foi idealizado em 2009 e desde então vem mudando a cada apresentação em ambientes públicos e causando benefícios para comunidades com um modelo mais participativo, em termos de conteúdo, que é vinculado com os canais Web de interesse da localidade. O Tela Social é todo baseado em padrões abertos Web, como HTML5, CSS3, DOM, além de outros. Para maiores informações sobre o Tela Social, visite http://www.telasocial.com.
 
+## Banners 
 
+![Banner](fisl.jpg)
