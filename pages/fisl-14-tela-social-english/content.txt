@@ -22,7 +22,9 @@ The project FISL14/ASL is an opportunity for developers and also professionals i
 
 ## About Tela Social
 
-Tela Social is a standards-compliant solution for communications in public and semi-public spaces. It brings a visual dashboard experience that causes benefits to communities improving  participation. It's web-based and lightweight approach allows a seamless approach that connects existing web content with display applicances in physical spaces. The system has evolved and supports organisations to manage visual content in a 24x7 basis — read more about [A New Concept for a Corporate News Board, by FPTI at Intercom](http://www.pti.org.br/sites/default/files/artigo_intercom_-_copia_2_-_english.pdf).
+Tela Social is a standards-compliant solution for communications in public and semi-public spaces. It brings a visual dashboard experience that causes benefits to communities improving  participation. It's web-based and lightweight approach allows a seamless approach that connects existing web content with display applicances in physical spaces. The system has evolved and supports organisations to manage visual content in a 24x7 basis. The following links are resources for related projects and english documentation: 
+
+   [A New Concept for a Corporate News Board, by FPTI at Intercom](http://www.pti.org.br/sites/default/files/artigo_intercom_-_copia_2_-_english.pdf).
 
 ## About  
 
