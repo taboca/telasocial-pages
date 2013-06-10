@@ -1,6 +1,6 @@
-Ribeirão Preto SP and Porto Alegre RS (June 7, 2013) — Tela Social Communication platform will support this year's FISL14 event in Porto Alegre from 3th to 6th of July. The event, the 14th International Free Software Forum, is one of the major open source events in Brazil. Tela Social experience will support the event's participants using a set of HDTV terminals and a real-time content experience tailored to the participants.
+Ribeirão Preto SP and Porto Alegre RS (June 7, 2013) — Tela Social Communication platform will support this year's [FISL14](http://fisl.softwarelivre.org/14) Conference in Porto Alegre from 3th to 6th of July. The event, the 14th International Free Software Forum, is one of the major open source events in Brazil. Tela Social will support the event's participants with a real-time content experience tailored to the participants and available in HD TV display appliances distributed at the [Center of Events PUCRS](http://www.pucrs.br/cepuc/). 
 
-The project, referred as #FISL14 Web Dashboard,  is the result of a partnership that reflects ASL and Tela Social's goals to support participants with a modern communication solution which is standards-compliant and Web based. 
+The project, referred as #FISL14 Web Dashboard, is the result of a partnership that reflects [ASL](http://softwarelivre.org/) and [Tela Social](http://www.telasocial.com]'s goals to support participants with a modern communication solution which is standards-compliant and Web based. 
 
 The user experience will be available using high-definition display panels and a small PC appliance next to each TV. The whole content is tailored to interests of participants using channels defined by the event's communication team.  The infrastructure, which is based on W3C standards, uses a browser engine appproach to bring a visual programming that is connected with content channels in the domain of FISL and extened social networks. 
 
@@ -20,7 +20,7 @@ The project FISL14/ASL is an opportunity for developers and also professionals i
 
 ## About Tela Social
 
-Tela Social is a standards-compliant solution for communications in public and semi-public spaces. It brings a visual dashboard experience that causes benefits to communities improving  participation. It's web-based and lightweight approach allows a seamless approach that connects existing web content with display applicances in physical spaces. The system has evolved and supports organisations to manage visual content in a 24x7 basis — read more about [A New Concept for a Corporate News Board by FPTI/Intercom](http://www.pti.org.br/sites/default/files/artigo_intercom_-_copia_2_-_english.pdf).
+Tela Social is a standards-compliant solution for communications in public and semi-public spaces. It brings a visual dashboard experience that causes benefits to communities improving  participation. It's web-based and lightweight approach allows a seamless approach that connects existing web content with display applicances in physical spaces. The system has evolved and supports organisations to manage visual content in a 24x7 basis — read more about [A New Concept for a Corporate News Board, by FPTI at Intercom](http://www.pti.org.br/sites/default/files/artigo_intercom_-_copia_2_-_english.pdf).
 
 ## About  
 
