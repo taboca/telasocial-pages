@@ -1,0 +1,27 @@
+Ribeirão Preto SP and Porto Alegre RS (June 7, 2013) — Tela Social Communication platform will support this year's FISL14 event in Porto Alegre from 3th to 6th of July. The event, the 14th International Free Software Forum, is one of the major open source events in Brazil. Tela Social experience will support the event's participants using a set of HDTV terminals and a real-time content experience tailored to the participants.
+
+The project, referred as #FISL14 Web Dashboard,  is the result of a partnership that reflects ASL and Tela Social's goals to support participants with a modern communication solution which is standards-compliant and Web based. 
+
+The user experience will be available using high-definition display panels and a small PC appliance next to each TV. The whole content is tailored to interests of participants using channels defined by the event's communication team.  The infrastructure, which is based on W3C standards, uses a browser engine appproach to bring a visual programming that is connected with content channels in the domain of FISL and extened social networks. 
+
+The dashboard experience has a layout with various segments as shown in the followig figure: 
+
+![Visualização geral de conteúdos e segmentos](arquitetura-segmentos-tela.png)
+
+## Background History 
+
+The “Tela Social” has history in FISL. Its first version was launched in 2010 with support from FISL. It was a successful implementation with a project coordinated by Mr. Lucas Alberto (GT Cultura). In the first version, the project was comprised of three (3) screens and a big screen that used a projector. The original version featured Twitter, Identi.ca, Flickr, and addicional components that displayed news and alers. Since that, Tela Social has expanded to other major events in Brazil and it reached new capabilities, such as the component that creates a content grid of events based in the ICS format, which is the format supported by Google Calendar. 
+
+## Opportunity at FISL 
+
+The project FISL14/ASL is an opportunity for developers and also professionals in adminstration and media. The project will select four contributors who should be involved in the project and should also participate in the event with guest invitations. There is also an opportunity for a software engineer with interest in client and server architecture. The customization project, with ASL will be available on a GitHub repository and should be compatible with the platform/system of TelaSocial, which is open source. 
+
+![Banner](fisl.jpg)
+
+## About Tela Social
+
+Tela Social is a standards-compliant solution for communications in public and semi-public spaces. It brings a visual dashboard experience that causes benefits to communities improving  participation. It's web-based and lightweight approach allows a seamless approach that connects existing web content with display applicances in physical spaces. The system has evolved and supports organisations to manage visual content in a 24x7 basis — read more about [A New Concept for a Corporate News Board by FPTI/Intercom](http://www.pti.org.br/sites/default/files/artigo_intercom_-_copia_2_-_english.pdf).
+
+## About  
+
+For additional information, please reach us at [Tela Social](http://www.telasocial.com) or using our [contact form](http://www.telasocial.com/contato.html). This article received contribution by Diany Nakamura.
