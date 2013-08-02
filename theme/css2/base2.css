@@ -9,7 +9,7 @@
 
 .panelTitle { 
   position: absolute;
-  border-top-right-radius:15px;
+  border-bottom-right-radius:15px;
   background-color:rgba(0,0,0,.8);
   float:left;
   text-align:left;
