@@ -3,6 +3,7 @@ Ribeirão Preto SP e Porto Alegre RS — 7 de Junho de 2013.
 
 Os participantes do FISL14 poderão acompanhar, pela tecnologia do Tela Social (http://www.telasocial.com),  toda a programação do evento em tempo real e em conexão  com redes sociais. São os murais Web #FISL14, que estarão espalhados por meio de modernas TVs nos corredores do centro de eventos da PUC, em Porto Alegre, de 3 a 6 de Julho, durante o 14o Forum Internacional de Software Livre (FISL).
 
+## FISL14 com o Tela Social 
 O projeto é resultado de uma parceria entre a ASL e Tela Social Comunicação. O Tela Social foi o escolhido por ser um pioneiro em suporte para sistemas de comunicação com interação em tempo real e conteúdo Web, além de ser uma tecnologia baseada em padrões abertos. A solução também capacitará a ASL para dar continuidade ao projeto e evoluir para futuras versões.
 
 ## Solução Tecnológica 
