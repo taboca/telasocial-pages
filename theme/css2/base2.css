@@ -4,6 +4,7 @@
   padding:5px;
   text-align:center;
   position:relative;
+  border-radius-top-right:15px;
 } 
 
 .panelTitle { 
