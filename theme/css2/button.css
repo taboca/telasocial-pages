@@ -5,7 +5,8 @@
 
 } 
 .button {
-        width:250px;
+        width:200px;
+        background-size:200px 50px;
         margin:0px;
 	cursor:pointer;
         padding:0px;
