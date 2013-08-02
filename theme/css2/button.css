@@ -7,13 +7,14 @@
 .button {
     width:200px;
     background-size:200px 50px;
+    font-weight:bold;
     margin:0px;
     cursor:pointer;
     padding:0px;
-	padding-top:8px;
+	padding-top:13px;
     background:url(/images/gray.png) no-repeat 0 0;
     text-align:center;
-	font-size:135%;
+	font-size:125%;
 	color:black;
     height:50px;
 }
