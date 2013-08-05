@@ -8,9 +8,8 @@
 
 .panelTitle { 
   position: absolute;
-  background-color:white;
   border-bottom-right-radius:15px;
-  background-color:rgba(0,0,0,.8);
+  background-color:rgba(255,255,255,.8);
   float:left;
   text-align:left;
   color:black;
