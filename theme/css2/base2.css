@@ -1,20 +1,19 @@
 .panel  { 
-  box-shadow:3px 3px 5px black;
-  width:200px;
+  box-shadow:3px 3px 5px rgba(0,0,0,.3);
+  min-width:180px;
   padding:5px;
   text-align:center;
-  background:black;
   position:relative;
 } 
 
 .panelTitle { 
   position: absolute;
+  background-color:white;
   border-bottom-right-radius:15px;
   background-color:rgba(0,0,0,.8);
   float:left;
   text-align:left;
-  color:orange;
-  padding:10px;
+  color:black;
 } 
 
 h1, .top { 
