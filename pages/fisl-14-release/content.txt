@@ -14,5 +14,7 @@ O jornal mural do PTI, que antes era quinzenal e de papel, passou a ser exibido 
 
 É importante lembrar que, por ser desenvolvido em código aberto, o projeto das telas é mutável e pode ser moldado de acordo com os objetivos estabelecidos por cada usuário.
 
+### Sobre
 
+Matéria por Marina Palazzo Delai. 
 
