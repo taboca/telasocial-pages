@@ -1,0 +1,18 @@
+Adotado pelo 14° Fórum Internacional de Software Livre (FISL) como uma das formas de interação entre os participantes, por meio de murais Web ou TVs, a tecnologia do Tela Social também está disponível para ser usada também por outros grandes eventos ou empresas. 
+
+No caso do FISL, realizado em Julho em Porto Alegre, a comunicação visual para os espaços internos do evento traziam a grade da programação, horário e local das palestras. Com os painéis era possível comunicar, em tempo real, sobre o cancelamento de palestras ou mudanças de horário de última hora. Além disso, a ferramenta de comunicação proporcionava a interação com as redes sociais.
+
+## O Tela Social e o FISL   
+
+A relação de parceria entre o Tela Social e o FISL já existe há três anos, desde quando a primeira versão do Tela foi lançada com o apoio da equipe do Fórum. O projeto inicial contou com três telas, um telão, redes sociais como Twitter, Identi.ca, Flickr e notícias institucionais. O principal diferencial entre a primeira e a última versão é que, na primeira, as telas não estavam sincronizadas com a programação do evento. 
+
+## Adeptos ao Tela Social
+
+Além do FISL, que optou pela tecnologia com padrões abertos do Tela Social, a Conferência Latino-americana de Software Livre (Latinoware) também adotou os painéis para interagir com seu público e informar sobre a programação. Na Latinoware, evento que acontece anualmente no Parque Tecnológico Itaipu (PTI), em Foz do Iguaçu, o Tela está presente desde 2011. Após o sucesso dos murais Web na Conferência, o PTI também adotou a tecnologia do Tela para implantar os novos e modernos jornais murais.
+
+O jornal mural do PTI, que antes era quinzenal e de papel, passou a ser exibido diariamente em 26 telas de LED, de 55 polegadas, espalhadas pelo Parque. No caso do PTI, as telas são compostas por sete espaços: cabeçalho, notícias do Parque – divididas em principal e secundárias, banners, rede social (Twitter), canal de notícias com parceiro local, e previsão do tempo. Todas as telas são programadas para ligar e desligar, automaticamente.
+
+É importante lembrar que, por ser desenvolvido em código aberto, o projeto das telas é mutável e pode ser moldado de acordo com os objetivos estabelecidos por cada usuário.
+
+
+
