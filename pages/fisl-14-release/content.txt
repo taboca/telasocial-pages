@@ -2,7 +2,7 @@ Adotado pelo 14° Fórum Internacional de Software Livre (FISL) como uma das for
 
 No caso do FISL, realizado em Julho em Porto Alegre, a comunicação visual para os espaços internos do evento traziam a grade da programação, horário e local das palestras. Com os painéis era possível comunicar, em tempo real, sobre o cancelamento de palestras ou mudanças de horário de última hora. Além disso, a ferramenta de comunicação proporcionava a interação com as redes sociais.
 
-<a data-pin-do="embedPin" href="http://www.pinterest.com/pin/376121006350939774/"></a>
+<a data-pin-do="embedBoard" href="http://www.pinterest.com/telasocial/tela-social-no-fisl/"></a>
 
 ## O Tela Social e o FISL   
 
