@@ -1,0 +1,33 @@
+O público que prestigiou a 9 ª edição da Feira Internacional do Livro em Foz do Iguaçu, cerca de 70 mil pessoas, pode acompanhar detalhes da programação e as principais notícias da Feira por meio de três TV´s de LED, de 55 polegadas, instaladas pelo Tela Social.  A ferramenta de sinalização digital foi apresentada aos amantes da literatura por meio de uma parceria com o [Parque Tecnológico Itaipu](http://www.pti.org.br/).
+
+## Feira Internacional do Livro conta com a tecnologia do Tela Social
+
+O evento, realizado entre 30 de agosto e 08 de setembro, contou com cerca de 150 atividades culturais e 40 estandes que apresentaram as novidades relacionadas ao universo da literatura e incentivaram o gosto das crianças e adultos pela cultura.
+
+O papel do Tela Social, assim como o das demais atividades, era atrair a atenção das pessoas e oferecer um canal de interação por meio das notícias publicadas em tempo real e do uso das redes sociais.
+
+## Componentes do Tela Social e parcerias
+
+Com uma estrutura pensada especialmente para a Feira, além de notícias relacionadas à Feira, as telas continham outros componentes visuais e de interação: o Twitter - com a menção \#livrofoz; os banners rotativos; a previsão do tempo CPTec; e o canal de notícias que puxava o feed do site [ClickFoz](http://www.clickfozdoiguacu.com.br/).  No segmento das notícias principais, atualizadas em tempo real pelo PTI e pelo ClickFoz, quando a notícia era acompanhada de um link externo, automaticamente ativava um código qr-code – como mostra as imagens abaixo.
+
+![Screeenshot com imagem da tela mural Web da Feira do Livro](imagem1.png)
+
+![Screeenshot com imagem da tela mural Web da Feira do Livro](imagem2.png)
+
+O comportamento real das telas e seus componentes durante a Feira pode ser visto pelo link https://vimeo.com/73798839.
+
+<iframe src="//player.vimeo.com/video/73798839" width="500" height="282" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/73798839">Tela Social — IX Feira do Livro — Painéis Sinalização Mural Web na Feira do Livro em Foz do Iguaçu</a> from <a href="http://vimeo.com/t8l">telasocial</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+## Versão atual
+
+A ferramenta de sinalização digital funcionou com uma nova versão que oferece um serviço online vindo de servidores do próprio Tela Social. Isso quer dizer que, ao mesmo tempo em que a publicação é remota, por meio de servidores na Web, o Tela Social preserva as características de qualidade desde a origem do projeto. 
+
+Embora o sistema estivesse instalado em cada terminal, ele continuou funcional para os usuários mesmo nas condições de falha de sinal da Internet. Dessa maneira, a tolerância às falhas é crítica para que usuários possam estar sintonizados nas informações e questões interativas das telas. 
+
+### Autoria matéria 
+
+Esta matéria foi elaborada por Marina Delai. 
+
+
+
+
