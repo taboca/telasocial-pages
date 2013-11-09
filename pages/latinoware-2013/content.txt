@@ -1,0 +1,28 @@
+O Tela Social apresentará novidades na X edição da Conferência Latino-americana de Software Livre (Latinoware), realizada entre os dias 16 e 18 de outubro, no [Parque Tecnológico Itaipu](http://www.pti.org.br) (PTI), em Foz do Iguaçu.
+
+## História com Social Wall na Latinoware 
+
+Na primeira vez em que esteve presente no evento, em 2011, a sinalização digital trouxe o componente Twitter mas não havia o sistema de contagem de mensagens com a menção \#Latinoware. Na edição 2013, além do Twitter, as telas trouxeram componentes como grade da programação e notícias atualizadas em tempo real, ambos já usados e testados também no ano passado. 
+
+## Latinoware 2013 - 10 anos
+
+Além dos componentes mencionados, o Tela Social trouxe uma experiência ao público do evento, com uma estimativa média de 4 mil pessoas, novidades como um terminal com duas telas na vertical – ambas ligadas no mesmo computador. Com a inovação, as visualizações da grade e das erratas no decorrer da programação ficarão mais legíveis e melhor distribuídas.
+
+![Multi terminal com 2 telas de 42 na vertical](mini2.jpg)
+
+![Participante da Latinoware confere Social Wall com Web com Tela Social](mini4.jpg)
+
+Mas, a principal mudança nas telas em relação às versões anteriores será a aplicação experimenta com maior suporte para interação com usuários - via a rede social Instagran. Os requisitos do projeto foram criados pelos grupos de comunicação no PTI e o projeto teve apoio do grupo de tecnologia (TI) da Latinoware. 
+
+Segundo o idealizador do Tela Social, Marcio Galli, as novidades nas telas surgem a partir da experiência dos usuários e de um *feedback* dos mesmos. Todos os serviços prestados pelo Tela seguem a linha da experimentação e da inovação a fim de satisfazer as necessidades dos usuários e clientes.
+
+## Projeto Tela Social na Latinoware
+
+O Tela Social também esteve presente na Latinoware com um estande e com uma palestra sobre “Uma Web dinâmica e participativa dos espaços públicos”, que abordou as tecnologias de comunicação, os desafios e como a web alcança os espaços e os limites do computador.
+
+![Estande do Tela Social](mini6.jpg)
+
+### Autoria matéria e notas de projeto
+
+Esta matéria foi elaborada por Marina Delai. Também foram colaboradores do projeto: Rodrigo Cadore, Marcelo da Rosa, Allan Pessini - além do grupo de TI, no PTI. 
+
