@@ -12,9 +12,7 @@ Além dos componentes mencionados, o Tela Social trouxe uma experiência ao púb
 
 ![Participante da Latinoware confere Social Wall com Web com Tela Social](mini4.jpg)
 
-Mas, a principal mudança nas telas em relação às versões anteriores será a aplicação experimenta com maior suporte para interação com usuários - via a rede social Instagran. Os requisitos do projeto foram criados pelos grupos de comunicação no PTI e o projeto teve apoio do grupo de tecnologia (TI) da Latinoware. 
-
-Segundo o idealizador do Tela Social, Marcio Galli, as novidades nas telas surgem a partir da experiência dos usuários e de um *feedback* dos mesmos. Todos os serviços prestados pelo Tela seguem a linha da experimentação e da inovação a fim de satisfazer as necessidades dos usuários e clientes.
+A principal novidade nas telas em relação às versões anteriores foi o lançamento do suporte para a rede social Instagram, que permitiu que usuários pudesse utilizar as aplicações em celulares *smartphone* e pudessem ver as fotos em tempo real nas telas, logo após a publicação nas redes sociais. Segundo o idealizador do Tela Social, Marcio Galli, as novidades nas telas surgem a partir da experiência dos usuários e de um *feedback* dos mesmos. Todos os serviços prestados pelo Tela seguem a linha da experimentação e da inovação a fim de satisfazer as necessidades dos usuários e clientes.
 
 ## Projeto Tela Social na Latinoware
 
@@ -24,5 +22,8 @@ O Tela Social também esteve presente na Latinoware com um estande e com uma pal
 
 ### Autoria matéria e notas de projeto
 
-Esta matéria foi elaborada por Marina Delai. Também foram colaboradores do projeto: Rodrigo Cadore, Marcelo da Rosa, Allan Pessini - além do grupo de TI, no PTI. 
+Esta matéria foi elaborada por Marina Delai. Também foram colaboradores do projeto: Rodrigo Cadore, Marcelo da Rosa, Allan Pessini - além do grupo de TI, no PTI.  Os requisitos do projeto foram criados pelos grupos de comunicação no PTI e o projeto teve apoio do grupo de tecnologia (TI) do PTI/Latinoware. 
 
+### Artigos relacionados
+
+* [Tela Social promove interação por meio de Software Livre](http://2013.latinoware.org/2013/10/tela-social-promove-a-interacao-por-meio-do-software-livre/)
