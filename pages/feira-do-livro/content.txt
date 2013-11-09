@@ -24,10 +24,7 @@ A ferramenta de sinalização digital funcionou com uma nova versão que oferece
 
 Embora o sistema estivesse instalado em cada terminal, ele continuou funcional para os usuários mesmo nas condições de falha de sinal da Internet. Dessa maneira, a tolerância às falhas é crítica para que usuários possam estar sintonizados nas informações e questões interativas das telas. 
 
-### Autoria matéria 
+### Autoria matéria e notas de projeto
 
-Esta matéria foi elaborada por Marina Delai. 
-
-
-
+Esta matéria foi elaborada por Marina Delai. Também foram colaboradores do projeto: Rodrigo Cadore, Marcelo da Rosa, Michelle Oliveira, Allan Pessini e Letícia Lichacovski (ClickFoz).
 
